@@ -1,0 +1,10 @@
+/static/files/ignore
+.vscode/
+.idea/
+
+__pycache__/
+
+env/
+.venv/
+/tmx
+.env

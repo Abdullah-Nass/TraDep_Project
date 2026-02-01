@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tradep.pythonanywhere.com//sitemap.xml

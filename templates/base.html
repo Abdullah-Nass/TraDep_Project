@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="{{ get_locale() }}">
+  <head>
+    <script
+      src="https://analytics.ahrefs.com/analytics.js"
+      data-key="SrtBIcVn4IX00+StaAnXHw"
+      async
+    ></script>
+    <meta
+      name="google-site-verification"
+      content="CeaiFofEHWL9gjZ1o4psuhBkLFXrJ-0hbupWZg4AoRc"
+    />
+    <meta name="keywords" content="{% block keywords %}{% endblock %}" />
+    <meta charset="UTF-8" />
+    <meta name="author" content="{{ _('عبدالله ناصر') }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{% block description %}{% endblock %}" />
+    <title>{% block title %}{% endblock %}</title>
+    <meta
+      name="ahrefs-site-verification"
+      content="0a904c74c45106d6d8acb1515b5441eea02564fdddfaa18122addbc07add5738"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="{{ url_for('content.send_image', filename='T.png')}}"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style.css')}}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='essays.css')}}"
+    />
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='base.css')}}" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Oswald:wght@200..700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Tajawal:wght@200;300;400;500;700;800;900&family=Zain:wght@200;300;400;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body
+    style="
+      font-family: {% if get_locale() == 'ar'%}'Cairo', sans-serif{% else %}'Poppins', sans-serif{% endif %};
+      background-color: #f1f1f1;
+      visibility: hidden;
+      direction: {% if get_locale() == 'ar' %}rtl{% else %}ltr{% endif %};
+    "
+    class="body"
+  >
+    <nav style="direction: rtl" class="sticky-top navbar navbar-expand-lg">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="{{url_for('home')}}">
+          <img
+            style="width: 150px"
+            src="{{ url_for('content.send_image', filename='main_logo.webp')}}"
+            alt="{{ _('موقع طلاب قسم الترجمة') }}"
+          />
+        </a>
+        <button
+          style="border: 0"
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <i class="fa-solid fa-bars toggle-menu"></i>
+        </button>
+        <div
+          style="direction: {%if get_locale() == 'ar'%}rtl{%else%}ltr{%endif%}"
+          class="collapse navbar-collapse"
+          id="navbarSupportedContent"
+        >
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0 gap-3">
+            <li class="nav-item mt-3 mt-lg-0">
+              <a class="nav-link {{is_home_active}}" id="link" href="/">
+                {{ _('الصفحة الرئيسية') }}</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link {{is_plan_active}}"
+                id="link"
+                href="{{url_for('studyplan')}}"
+                >{{ _('الخطة الدراسية') }}</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link {{is_dr_active}}"
+                id="link"
+                title="{{ _('حسابات البريد الإلكتروني لاعضاء الهيئة التدريسية') }}"
+                href="{{url_for('emails')}}"
+                >{{ _('الهيئة التدريسية') }}</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link {{is_about}}"
+                id="link"
+                title="{{ _('عن قسم الترجمة') }}"
+                href="{{url_for('about')}}"
+                >{{ _('عن القسم') }}</a
+              >
+            </li>
+
+            <li class="nav-item d-flex align-items-center">
+              <div class="language-switcher d-felx gap-2 d-md-block">
+                <a
+                  class="m-1"
+                  href="{{ url_for('set_language', language='en') }}"
+                  ><img
+                    src="{{url_for('content.send_image', filename= 'eng.svg')}}"
+                    alt="{{_('شعار اللغة الانجليزية')}}"
+                    ,
+                    width="25px"
+                  /> </a
+                >|
+                <a
+                  style="font-family: Tajawal, sans-serif"
+                  class="m-1"
+                  href="{{ url_for('set_language', language='ar') }}"
+                  ><img
+                    src="{{url_for('content.send_image', filename= 'arabic.svg')}}"
+                    alt="{{_('شعار اللغة العربية')}}"
+                    ,
+                    width="25px"
+                /></a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    {% block content %}{% endblock %}
+
+    <footer class="bg-light py-4 mt-5 border-top">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div
+            class="{% if credits %} col-md-4 {%else%} col-md-6 {%endif%} mb-3 mb-md-0 text-center"
+          >
+            <p class="mb-0 text-muted">
+              {{_('عبدالله ناصر')}} &copy; {{current_year}}
+            </p>
+          </div>
+
+          <div
+            class="{% if credits %} col-md-4 {%else%} col-md-6 {%endif%} mb-3 mb-md-0 text-center"
+          >
+            <div class="d-flex justify-content-center gap-3">
+              <a
+                href="https://www.linkedin.com/in/abdullah-naser-556537348/"
+                class="text-dark text-decoration-none"
+                title="LinkedIn"
+                target="_blank"
+              >
+                <i class="fa-brands fa-linkedin-in fs-5"></i>
+              </a>
+              <a
+                href="https://github.com/Abdullah-Nass"
+                class="text-dark text-decoration-none"
+                title="GitHub"
+                target="_blank"
+              >
+                <i class="fa-brands fa-github fs-5"></i>
+              </a>
+            </div>
+          </div>
+
+          {% if credits %}
+          <div class="col-md-4 text-center text-md-end">
+            <div class="text-muted">
+              <small>{{_('الشكر والتقدير الى')}} ({{ credits }})</small>
+            </div>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    </footer>
+    <script src="{{ url_for('static', filename='index.js')}}"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

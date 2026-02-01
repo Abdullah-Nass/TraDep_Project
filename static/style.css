@@ -1,0 +1,119 @@
+:root {
+  --maincolor: #49bbbc;
+  --seconderycolor: #2f261c;
+  --thirdcolor: #f8f8f8d8;
+  --fourthcolor: #6c9d6f;
+  --unique-font: #f3e5f5;
+  --secondary-background: linear-gradient(
+    to bottom right,
+    #280164e0,
+    #280164,
+    #11787a
+  );
+  --page-style-main-color: #2f066d;
+
+  --page-style-secondary-color: #9a75d1;
+  --page-style-third-color: #2e7071;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.body {
+  height: 100vh;
+  width: 100%;
+}
+
+.change-background,
+.home-page {
+  background-color: #f1f1f1;
+  position: relative;
+}
+.page-intro {
+  background: #0a4446;
+}
+.float-item {
+  transform: translatey(50px);
+  opacity: 0;
+  transition: all 0.6s ease;
+}
+.float-item.visible {
+  transform: translatey(0px);
+  opacity: 1;
+}
+
+.hero {
+  background: linear-gradient(to bottom, #2f066d, #116568);
+  box-shadow: 0 4px 15px rgba(62, 10, 139, 0.281);
+}
+.hero-title {
+  color: var(--unique-font);
+}
+.hero-title + p {
+  color: var(--thirdcolor);
+}
+.hero_img {
+  border-radius: 10px;
+}
+
+.green-font {
+  color: var(--fourthcolor);
+}
+.cta-btn {
+  color: var(--fourthcolor);
+  border: var(--fourthcolor) solid 1px;
+}
+.cta-btn:hover {
+  background: var(--fourthcolor);
+  color: var(--thirdcolor);
+}
+.section-title {
+  color: var(--page-style-secondary-color);
+  text-align: center;
+}
+.secondary-title {
+  color: var(--page-style-main-color);
+}
+.card {
+  border: none;
+}
+.description {
+  max-width: 700px;
+}
+
+.indent {
+  text-indent: 20px;
+  padding: 0 15px;
+}
+/* Start View.html */
+.book-image {
+  border: solid 2px #cec2c2;
+  border-radius: 10px !important;
+  margin-top: 12px !important;
+  width: 120px !important;
+  height: 125px !important;
+}
+
+/* End View.html */
+
+/* Emails Page */
+
+.member-image {
+  border-radius: 50%;
+  width: 170px;
+  height: 170px;
+}
+.headOfDep {
+  color: var(--unique-font);
+  background: linear-gradient(
+    135deg,
+    var(--page-style-secondery-color) 0%,
+    #2e7071 100%
+  );
+  padding: 4px;
+  font-weight: 500;
+  border-radius: 3px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+/* End Emails Page */

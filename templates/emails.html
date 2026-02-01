@@ -1,0 +1,234 @@
+{% extends 'base.html' %} {% block title%}{{ _('دليل اعضاء الهيئة التدريسية لقسم
+الترجمة جامعة اليرموك') }}{% endblock %} {% block content %}
+
+<div class="page-intro text-secondary px-4 py-5 text-center">
+  <div class="py-5">
+    <h1 class="hero-title display-5 fw-bold">
+      {{ _('أعضاء الهيئة التدريسية لقسم الترجمة التحريرية والشفوية') }}
+    </h1>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row g-4 py-5 row-cols-1 row-cols-md-2 row-cols-lg-3">
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='dr.rafat_alrousan_image.webp')}}"
+          alt="{{ _('dr.rafat_alrousan_image') }}"
+          ,
+          class="member-image"
+        />
+        <h4 class="prof-name">{{ _('د. رأفت محمود رفاعي الروسان') }}</h4>
+        <span
+          class="headOfDep secondary-title position-absolute top-0 {%if get_locale() == 'ar'%}end-0{%else%}start-0{%endif%} m-2"
+          >{{_("رئيس القسم")}}</span
+        >
+        <div class="section-title">rafat.r@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='no-profile-picture.webp')}}"
+          alt="{{ _('no-profile-picture') }}"
+          ,
+          class="member-image"
+        />
+        <h4 class="prof-name">{{ _('د. رائدة ابراهيم ياسين الرمضان') }}</h4>
+        <div class="section-title">raidarmdn@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='dr.ahmad_harahsha_image.webp')}}"
+          alt="{{ _('dr.ahmad_harahsha_image') }}"
+          ,
+          class="member-image"
+        />
+        <h4 class="prof-name">{{ _('أ.د. احمد محمد احمد الحراحشه') }}</h4>
+        <div class="section-title">harahsheh77@yu.edu.jo</div>
+      </div>
+    </div>
+
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='dr.mahmoud_kanakri_image.webp')}}"
+          alt="{{ _('dr.mahmoud_kanakri_image') }}"
+          ,
+          class="member-image"
+        />
+        <h4 class="prof-name">{{ _('أ.د. محمود علي محمد الكناكري') }}</h4>
+        <div class="section-title">mahmoud.k@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='no-profile-picture.webp')}}"
+          alt="{{ _('no-profile-picture') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. فاديه يوسف عامر حواري') }}</h4>
+        <div class="section-title">fadiah@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='no-profile-picture.webp')}}"
+          alt="{{ _('no-profile-picture') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. منى نبيل علي ملكاوي') }}</h4>
+        <div class="section-title">monanm@yu.edu.jo</div>
+      </div>
+    </div>
+
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='dr.bilal_alsyaheen_image.webp')}}"
+          alt="{{ _('dr.bilal_alsyaheen_image') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. بلال ناجح محمد صياحين') }}</h4>
+        <div class="section-title">bsayaheen@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='dr.ibrahim_darwish_image.webp')}}"
+          alt="{{ _('dr.ibrahim_darwish_image') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. ابراهيم محمد نهار درويش') }}</h4>
+        <div class="section-title">darwish1470@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='no-profile-picture.webp')}}"
+          alt="{{ _('no-profile-picture') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. محمد عطوي ظاهر الصرايره') }}</h4>
+        <div class="section-title">saraireh@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='no-profile-picture.webp')}}"
+          alt="{{ _('no-profile-picture') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. سميه عبدالحميد العبدالله القضاه') }}</h4>
+        <div class="section-title">somia.qudah@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='dr.mohammed_obaidat_image.webp')}}"
+          alt="{{ _('dr.mohammed_obaidat_image') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. محمد محمود محمد عبيدات') }}</h4>
+        <div class="section-title">mmobeidat@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='no-profile-picture.webp')}}"
+          alt="{{ _('no-profile-picture') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. نانسي احمد داود مصلح') }}</h4>
+        <div class="section-title">nansi.mesleh@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='no-profile-picture.webp')}}"
+          alt="{{ _('no-profile-picture') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. انجاد عبدالله موسى محاسنه') }}</h4>
+        <div class="section-title">anjadmahasneh@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='dr.mohammed_qaraan_image.webp')}}"
+          alt="{{ _('dr.mohammed_qaraan_image') }}"
+          ,
+          class="member-image"
+        />
+        <h4>{{ _('د. محمد احمد حسن القرعان') }}</h4>
+        <div class="section-title">mquran@yu.edu.jo</div>
+      </div>
+    </div>
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        <img
+          src="{{url_for('content.send_prof_pic', filename='dr.mohammed_bataineh_image.webp')}}"
+          alt="{{ _('dr.mohammed_bataineh_image') }}"
+          ,
+          class="member-image"
+          ,
+          class="member_image"
+        />
+        <h4>{{ _('د. محمد صبري العبد المفلح البطاينه') }}</h4>
+        <div class="section-title">m_bataineh@yu.edu.jo</div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

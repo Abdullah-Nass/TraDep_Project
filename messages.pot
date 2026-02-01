@@ -1,0 +1,1223 @@
+# Translations template for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-01-30 21:53+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: books.py:14 groups.py:15
+msgid "قواعد اللغة الانجليزية (1)"
+msgstr ""
+
+#: books.py:15 groups.py:16
+msgid "قواعد اللغة الانجليزية (2)"
+msgstr ""
+
+#: books.py:16 groups.py:17
+msgid "كتابة الفقرة في اللغة الإنجليزية"
+msgstr ""
+
+#: books.py:17 groups.py:18
+msgid "صوتيات اللغة الإنجليزية"
+msgstr ""
+
+#: books.py:18 groups.py:19
+msgid "النحو التطبيقي المقارن (1)"
+msgstr ""
+
+#: books.py:19 groups.py:20
+msgid "قراءة متقدمة باللغة الإنجليزية"
+msgstr ""
+
+#: books.py:20 groups.py:21
+msgid "مدخل الى الأدب الإنجليزي والعربي"
+msgstr ""
+
+#: books.py:21 groups.py:22
+msgid "ترجمة عامة(E-ع)"
+msgstr ""
+
+#: books.py:22 groups.py:23
+msgid "ترجمة عامة (ع-E)"
+msgstr ""
+
+#: books.py:23 groups.py:24
+msgid "مقدمة في نظريات الترجمة"
+msgstr ""
+
+#: books.py:24 groups.py:25
+msgid "قواعد متقدمة باللغة الانجليزية"
+msgstr ""
+
+#: books.py:25 groups.py:26
+msgid "كتابة المقال في اللغة الانجليزية"
+msgstr ""
+
+#: books.py:26 groups.py:27
+msgid "الترجمة الأدبية"
+msgstr ""
+
+#: books.py:27 groups.py:28
+msgid "الترجمة السمعبصرية"
+msgstr ""
+
+#: books.py:28 groups.py:29
+msgid "علم المعاني والبراجماتية"
+msgstr ""
+
+#: books.py:29 groups.py:30
+msgid "الترجمة التتابعة والفورية (E-ع)"
+msgstr ""
+
+#: books.py:30 groups.py:31
+msgid "الترجمة التتابعة والفورية (ع-E)"
+msgstr ""
+
+#: books.py:31 groups.py:32
+msgid "الترجمة بإستخدام الحاسوب"
+msgstr ""
+
+#: books.py:32 groups.py:33
+msgid "الترجمة القانونية"
+msgstr ""
+
+#: books.py:33 groups.py:34
+msgid "الترجمة الاعلامية"
+msgstr ""
+
+#: books.py:34 groups.py:35
+msgid "الترجمة التقنية"
+msgstr ""
+
+#: books.py:35 groups.py:36
+msgid "تحليل الخطاب"
+msgstr ""
+
+#: books.py:36 groups.py:37
+msgid "النحو العربي لأغراض الترجمة"
+msgstr ""
+
+#: books.py:37 books.py:40 groups.py:38 groups.py:41
+msgid "الترجمة والسياحة"
+msgstr ""
+
+#: books.py:38 groups.py:39
+msgid "ترجمة القصة القصيرة"
+msgstr ""
+
+#: books.py:39 groups.py:40
+msgid "المعاجم والمصطلحات"
+msgstr ""
+
+#: books.py:41 groups.py:42
+msgid "مشروع التخرج"
+msgstr ""
+
+#: books.py:42 groups.py:43
+msgid "ترجمة نصوص دينية"
+msgstr ""
+
+#: books.py:43 groups.py:44
+msgid "موضوع خاص في الترجمة"
+msgstr ""
+
+#: books.py:48 books.py:50
+msgid "كتب مساقات قسم الترجمة جامعة اليرموك الاجبارية"
+msgstr ""
+
+#: books.py:49 templates/home.html:59 templates/home.html:205
+#: templates/studyplan.html:32 templates/studyplan.html:56
+msgid "قسم اجباري"
+msgstr ""
+
+#: books.py:51
+msgid ""
+"موقع تعليمي لطلاب قسم الترجمة في جامعة اليرموك: اكتشف مجموعة واسعة من كتب"
+" الترجمة والمراجع العلمية لطلاب قسم الترجمة لمواد القسم الاجبارية في "
+"جامعة اليرموك. وفر وقتك مع موارد تعليمية شاملة جاهزة للتحميل مجانا لدعم "
+"دراستك"
+msgstr ""
+
+#: books.py:54 books.py:67
+msgid "لين صمادي"
+msgstr ""
+
+#: books.py:61 books.py:62
+msgid "كتب مساقات قسم الترجمة جامعة اليرموك الاختيارية"
+msgstr ""
+
+#: books.py:63
+msgid ""
+"موقع تعليمي لطلاب قسم الترجمة في جامعة اليرموك: اكتشف مجموعة واسعة من كتب"
+" الترجمة والمراجع العلمية لطلاب قسم الترجمة لمواد القسم الاختيارية في "
+"جامعة اليرموك. وفر وقتك مع موارد تعليمية شاملة جاهزة للتحميل مجانا لدعم "
+"دراستك"
+msgstr ""
+
+#: books.py:73
+msgid "Tenses Rule ملخصات قسم الترجمة "
+msgstr ""
+
+#: books.py:74
+msgid ""
+"ملخصات لمواد قسم الترجمة جامعة اليرموك.Tenses Rule . كتب قسم الترجمة "
+"جامعة اليرموك. تحميل كتب."
+msgstr ""
+
+#: books.py:75
+msgid "Tenses Rule جميع ملخصات"
+msgstr ""
+
+#: groups.py:49
+msgid "مجموعات لمساقات القسم الاجبارية"
+msgstr ""
+
+#: groups.py:50
+msgid ""
+"موقع تعليمي لطلاب قسم الترجمة في جامعة اليرموك: انضم إلى مجموعات واتساب "
+"مخصصة لطلاب قسم الترجمة في جامعة اليرموك لمواد القسم الاجبارية تواصل مع "
+"زملائك، شارك الموارد، وناقش مواضيع تعليمية لتعزيز دراستك."
+msgstr ""
+
+#: groups.py:58
+msgid "مجموعات  لمساقات القسم الاختيارية"
+msgstr ""
+
+#: groups.py:59
+msgid ""
+"موقع تعليمي لطلاب قسم الترجمة في جامعة اليرموك: انضم إلى مجموعات واتساب "
+"مخصصة لطلاب قسم الترجمة في جامعة اليرموك لمواد القسم الاختيارية تواصل مع "
+"زملائك، شارك الموارد، وناقش مواضيع تعليمية لتعزيز دراستك."
+msgstr ""
+
+#: main.py:56 studyPlan.py:8 studyPlan.py:14 studyPlan.py:21 studyPlan.py:27
+msgid "احمد حجازي"
+msgstr ""
+
+#: studyPlan.py:8
+msgid "الخطة الشجرية 2022 فما قبل قسم اجباري"
+msgstr ""
+
+#: studyPlan.py:8
+msgid ""
+"الخطة الشجرية لقسم الترجمة 2022 فما قبل لمواد القسم الاجبارية. جامعة "
+"اليرموك"
+msgstr ""
+
+#: studyPlan.py:13
+msgid "الخطة الشجرية 2022 فما قبل قسم اختياري"
+msgstr ""
+
+#: studyPlan.py:13
+msgid ""
+"الخطة الشجرية لقسم الترجمة 2022 فما قبل لمواد القسم الاختيارية. جامعة "
+"اليرموك"
+msgstr ""
+
+#: studyPlan.py:20
+msgid "الخطة الشجرية 2023 فما بعد قسم اجباري"
+msgstr ""
+
+#: studyPlan.py:20
+msgid ""
+"الخطة الشجريةلقسم الترجمة 2023 فما بعد لمواد القسم الاجبارية. جامعة "
+"اليرموك"
+msgstr ""
+
+#: studyPlan.py:26
+msgid "الخطة الشجرية 2023 فما بعد قسم اختياري"
+msgstr ""
+
+#: studyPlan.py:26
+msgid ""
+"الخطة الشجريةلقسم الترجمة 2023 فما بعد لمواد القسم الاختيارية. جامعة "
+"اليرموك"
+msgstr ""
+
+#: templates/about.html:1
+msgid ""
+"عن قسم الترجمة التحريرية\n"
+"والشفوية"
+msgstr ""
+
+#: templates/about.html:6 templates/home.html:292
+msgid "عن قسم الترجمة التحريرية والشفوية"
+msgstr ""
+
+#: templates/about.html:20 templates/emails.html:27
+msgid "رئيس القسم"
+msgstr ""
+
+#: templates/about.html:21
+msgid "د. رأفت الروسان"
+msgstr ""
+
+#: templates/about.html:23 templates/home.html:299
+msgid ""
+"أنشىء قسم الترجمة في مطلع العام الجامعي 2008/2009، وهو الأول من\n"
+"        نوعه في الجامعات الأردنية الرسمية. وجاء تأسيس القسم نظرا للحاجة "
+"الماسة\n"
+"        لتوفير المترجمين المؤهلين في كافة المجالات كالترجمة التحريرية "
+"والشفوية\n"
+"        وترجمة المؤتمرات والندوات . يعد قسم الترجمة ديناميكيا ومتطورا حيث"
+" يمنح\n"
+"        القسم درجتين: درجة البكالوريوس و الماجستير في الترجمة حيث انتقل "
+"هذا\n"
+"        الأخير من قسم اللغة الانجليزية في العام الجامعي 2010/2011، ويخطط "
+"القسم\n"
+"        حاليا لمنح درجتي الماجستير في الترجمة الشفوية ودرجة الدكتوراة في\n"
+"        الترجمة."
+msgstr ""
+
+#: templates/about.html:30
+msgid ""
+" ويشتمل البرنامج على الجانب النظري والتطبيقي ، حيث يعد\n"
+"        القسم خريجين للعمل في مهنة الترجمة تمرسوا على ترجمة مختلف أنواع "
+"النصوص\n"
+"        مثل الترجمة التحريرية، والشفوية، والمتخصصة، والفورية،\n"
+"        والتتابعية،والدراسات النظرية والتطبيقية الأخرى. ويشمل البرنامج "
+"عدة\n"
+"        مساقات في المهارات اللغوية باللغة العربية والانجليزية، و مساقات "
+"تشمل\n"
+"        اللغويات المقارنة والتحليلية، وتحليل الخطاب و علم الدلالة و "
+"استخدام\n"
+"        أدوات تطبيق الترجمة باستخدام الحاسوب (CAT). ويهدف البرنامج إلى "
+"تطوير\n"
+"        مهارة الطلبة في الترجمة التحريرية والشفوية من أجل تلبية متطلبات "
+"سوق\n"
+"        العمل من المترجمين داخل الأردن و خارجها، وخصوصا في هذا العصر الذي"
+" يشهد\n"
+"        تطورا كبيرا في تكنولوجيا المعلومات والاتصالات، حيث أن هناك حاجة "
+"ماسة\n"
+"        لمترجمين في مختلف المجالات والقطاعات مثل وسائل الإعلام، والمؤسسات"
+"\n"
+"        الحكومية وغير الحكومية وكذلك في المؤسسات المحلية والإقليمية "
+"والدولية.\n"
+"        يعقد القسم حوارات نقاشية وندوات سنوية حول دراسات الترجمة "
+"التحريرية\n"
+"        والشفوية من أجل أن يبقى الأساتذة والطلبة مواكبين للمعرفة. وهناك "
+"عدد لا\n"
+"        بأس به من الطلبة من خريجي القسم يتابعون دراساتهم العليا "
+"(الماجستير\n"
+"        والدكتوراه) في جامعات أردنية و بريطانية وأمريكية مرموقة. ويقوم "
+"على\n"
+"        التدريس نخبة من أعضاء هيئة التدريس من خريجي الجامعات الأمريكية\n"
+"        والبريطانية والأسترالية والعربية."
+msgstr ""
+
+#: templates/about.html:48
+msgid "الرؤية"
+msgstr ""
+
+#: templates/about.html:50
+msgid ""
+"العمل على جعل القسم نموذجا متميزا على المستويين الوطني\n"
+"          والإقليمي، والمساعدة على تقديم برنامج أكاديمي وعمل بحوث "
+"أكاديمية في\n"
+"          مجال دراسات الترجمة التحريرية والشفوية، وتخريج طلبة ذوي مهارة "
+"وكفاءة\n"
+"          عالية الى سوق العمل."
+msgstr ""
+
+#: templates/about.html:55
+msgid "الرسالة"
+msgstr ""
+
+#: templates/about.html:57
+msgid ""
+"يعمل القسم بشكل دؤوب من أجل تقديم تعليم ذي جودة عالية في مجال\n"
+"          دراسات الترجمة التحريرية والشفوية، وإجراء بحوث أكاديمية، والعمل"
+" على\n"
+"          تقديم الخدمة الاجتماعية من خلال العملية التعليمية الشاملة "
+"وتخريج طلبة\n"
+"          أكفياء و متمرسين، مما يعزز قيمنا الأخلاقية لمساعدة مجتمعنا "
+"وتلبية\n"
+"          متطلباته الإنسانية والتنموية."
+msgstr ""
+
+#: templates/about.html:63
+msgid "الأهداف"
+msgstr ""
+
+#: templates/about.html:66
+msgid ""
+"المساهمة في تطوير التعليم العالي في مجال دراسات الترجمة\n"
+"            التحريرية والشفوية من خلال استخدام طرق التدريس الحديثة "
+"واكتساب\n"
+"            المهارات المتعلقة بالتخصص."
+msgstr ""
+
+#: templates/about.html:71
+msgid "مواكبة التطورات في مجال دراسات الترجمة التحريرية والشفوية."
+msgstr ""
+
+#: templates/about.html:75
+msgid ""
+"تعزيز العلاقات العلمية والثقافية مع أقسام الترجمة في الجامعات\n"
+"            والمعاهد الأخرى لتطوير القسم وتعزيز مكانته العلمية."
+msgstr ""
+
+#: templates/about.html:79
+msgid ""
+"إعطاء الفرصة للطلبة المتميزين لمتابعة دراساتهم العليا في مختلف\n"
+"            فروع دراسات الترجمة."
+msgstr ""
+
+#: templates/about.html:83
+msgid ""
+"تطوير المناهج والخطط الدراسية وطرائق التدريس وتقييمها لتكون\n"
+"            منسجمة مع التطور التكنولوجي والتقني في الجامعة."
+msgstr ""
+
+#: templates/about.html:87
+msgid ""
+"تزويد الطلبة بقاعدة تعليمية راسخة تعزز المعرفة الأساسية،\n"
+"            ومهارات البحث، وإثراء التجارب الحياتية و مهارة الحاسوب "
+"الأساسية\n"
+"            لتعليم بعيد المدى."
+msgstr ""
+
+#: templates/about.html:91
+msgid "خلق تماسك بين التدريس والبحث."
+msgstr ""
+
+#: templates/about.html:93
+msgid "التركيز على احترام وتقدير عامة الناس وأرائهم."
+msgstr ""
+
+#: templates/about.html:96
+msgid ""
+"مساعدة الطلبة لتنمية مهارات التفكير الناقد وقوة الملاحظة،\n"
+"            ومهارات التحليل والتواصل الكتابي والشفوي بطلاقة."
+msgstr ""
+
+#: templates/about.html:100
+msgid ""
+"تطوير التقييم الداخلي المتكرر للتأكد من أن البرنامج يعمل\n"
+"            بطريقة تنسجم مع رسالة القسم والكلية."
+msgstr ""
+
+#: templates/about.html:104
+msgid ""
+"المساهمة في البحث الأكاديمي والتقدم للمشاريع البحثية المدعومة\n"
+"            ليتم نشرها على المستوى المحلي والعالمي."
+msgstr ""
+
+#: templates/about.html:108
+msgid ""
+"خلق قنوات الانفتاح والتواصل المحلي والإقليمي والدولي من خلال\n"
+"            المشاركة وعقد المؤتمرات والندوات الحوارية والنقاشية ومن خلال "
+"تقديم\n"
+"            منح دراسية داخل وخارج الدولة."
+msgstr ""
+
+#: templates/about.html:113
+msgid ""
+"تقديم تعليم متميز وتطوير ونشر المعرفة بالإضافة الى إعداد موارد\n"
+"            بشرية متعلمة ومثقفة ومؤهلة من أجل تلبية حاجات الأردن التنموية."
+msgstr ""
+
+#: templates/about.html:117
+msgid ""
+"خلق فرص للعاملين والطلبة للتفاعل في أسلوب راق من أجل الوصول\n"
+"            إلى الأهداف الأكاديمية والتنمية الشخصية."
+msgstr ""
+
+#: templates/base.html:15 templates/base.html:171
+msgid "عبدالله ناصر"
+msgstr ""
+
+#: templates/base.html:84
+msgid "موقع طلاب قسم الترجمة"
+msgstr ""
+
+#: templates/base.html:103
+msgid "الصفحة الرئيسية"
+msgstr ""
+
+#: templates/base.html:111
+msgid "الخطة الدراسية"
+msgstr ""
+
+#: templates/base.html:118
+msgid "حسابات البريد الإلكتروني لاعضاء الهيئة التدريسية"
+msgstr ""
+
+#: templates/base.html:120
+msgid "الهيئة التدريسية"
+msgstr ""
+
+#: templates/base.html:127
+msgid "عن قسم الترجمة"
+msgstr ""
+
+#: templates/base.html:129
+msgid "عن القسم"
+msgstr ""
+
+#: templates/base.html:140
+msgid "شعار اللغة الانجليزية"
+msgstr ""
+
+#: templates/base.html:151
+msgid "شعار اللغة العربية"
+msgstr ""
+
+#: templates/base.html:173
+msgid "جميع الحقوق محفوظة"
+msgstr ""
+
+#: templates/base.html:196
+msgid "الشكر والتقدير الى"
+msgstr ""
+
+#: templates/emails.html:1
+msgid ""
+"دليل اعضاء الهيئة التدريسية لقسم\n"
+"الترجمة جامعة اليرموك"
+msgstr ""
+
+#: templates/emails.html:7
+msgid "أعضاء الهيئة التدريسية لقسم الترجمة التحريرية والشفوية"
+msgstr ""
+
+#: templates/emails.html:20
+msgid "dr.rafat_alrousan_image"
+msgstr ""
+
+#: templates/emails.html:24
+msgid "د. رأفت محمود رفاعي الروسان"
+msgstr ""
+
+#: templates/emails.html:38 templates/emails.html:81 templates/emails.html:95
+#: templates/emails.html:138 templates/emails.html:152
+#: templates/emails.html:180 templates/emails.html:194
+msgid "no-profile-picture"
+msgstr ""
+
+#: templates/emails.html:42
+msgid "د. رائدة ابراهيم ياسين الرمضان"
+msgstr ""
+
+#: templates/emails.html:52
+msgid "dr.ahmad_harahsha_image"
+msgstr ""
+
+#: templates/emails.html:56
+msgid "أ.د. احمد محمد احمد الحراحشه"
+msgstr ""
+
+#: templates/emails.html:67
+msgid "dr.mahmoud_kanakri_image"
+msgstr ""
+
+#: templates/emails.html:71
+msgid "أ.د. محمود علي محمد الكناكري"
+msgstr ""
+
+#: templates/emails.html:85
+msgid "د. فاديه يوسف عامر حواري"
+msgstr ""
+
+#: templates/emails.html:99
+msgid "د. منى نبيل علي ملكاوي"
+msgstr ""
+
+#: templates/emails.html:110
+msgid "dr.bilal_alsyaheen_image"
+msgstr ""
+
+#: templates/emails.html:114
+msgid "د. بلال ناجح محمد صياحين"
+msgstr ""
+
+#: templates/emails.html:124
+msgid "dr.ibrahim_darwish_image"
+msgstr ""
+
+#: templates/emails.html:128
+msgid "د. ابراهيم محمد نهار درويش"
+msgstr ""
+
+#: templates/emails.html:142
+msgid "د. محمد عطوي ظاهر الصرايره"
+msgstr ""
+
+#: templates/emails.html:156
+msgid "د. سميه عبدالحميد العبدالله القضاه"
+msgstr ""
+
+#: templates/emails.html:166
+msgid "dr.mohammed_obaidat_image"
+msgstr ""
+
+#: templates/emails.html:170
+msgid "د. محمد محمود محمد عبيدات"
+msgstr ""
+
+#: templates/emails.html:184
+msgid "د. نانسي احمد داود مصلح"
+msgstr ""
+
+#: templates/emails.html:198
+msgid "د. انجاد عبدالله موسى محاسنه"
+msgstr ""
+
+#: templates/emails.html:208
+msgid "dr.mohammed_qaraan_image"
+msgstr ""
+
+#: templates/emails.html:212
+msgid "د. محمد احمد حسن القرعان"
+msgstr ""
+
+#: templates/emails.html:222
+msgid "dr.mohammed_bataineh_image"
+msgstr ""
+
+#: templates/emails.html:228
+msgid "د. محمد صبري العبد المفلح البطاينه"
+msgstr ""
+
+#: templates/home.html:1
+msgid ""
+"تخصص الترجمة. جامعة\n"
+"اليرموك.الترجمة التحريرية والشفوية.قسم الترجمة جامعة اليرموك.موقع قسم "
+"الترجمة"
+msgstr ""
+
+#: templates/home.html:3
+msgctxt "home_title"
+msgid "الصفحة الرئيسية"
+msgstr ""
+
+#: templates/home.html:4
+msgid ""
+"موقع تعليمي لطلاب قسم الترجمة في\n"
+"جامعة اليرموك: ملخصات كتب، مجموعات واتساب، معلومات أساتذة، ومراجع "
+"تعليمية. انضم\n"
+"الآن لتسهيل دراستك"
+msgstr ""
+
+#: templates/home.html:25
+msgid "موقع قسم الترجمة"
+msgstr ""
+
+#: templates/home.html:28
+msgid ""
+"مساعدة وإرشاد طلاب قسم الترجمة التحريرية والشفوية في جامعة اليرموك\n"
+"        في العثور على كتب مواد القسم وملخصات و مجموعات طلابية."
+msgstr ""
+
+#: templates/home.html:33
+msgid "مشاركة ملخص/كتاب"
+msgstr ""
+
+#: templates/home.html:36
+msgid "مشاركة مقال"
+msgstr ""
+
+#: templates/home.html:44
+msgid "المواد التعليمية"
+msgstr ""
+
+#: templates/home.html:52
+msgid "قسم إجباري"
+msgstr ""
+
+#: templates/home.html:61
+msgid ""
+"الكتب الخاصة بالمواد الإجبارية المعتمدة في قسم الترجمة، والمجمّعة\n"
+"        في مكان واحد لتسهيل الوصول إليها والاستفادة منها."
+msgstr ""
+
+#: templates/home.html:68 templates/home.html:94 templates/home.html:120
+#: templates/home.html:162 templates/home.html:188 templates/home.html:214
+#: templates/home.html:240 templates/view.html:41
+msgid "عرض"
+msgstr ""
+
+#: templates/home.html:78 templates/home.html:85 templates/home.html:231
+#: templates/studyplan.html:38 templates/studyplan.html:62
+msgid "قسم اختياري"
+msgstr ""
+
+#: templates/home.html:87
+msgid ""
+"الكتب الخاصة بالمواد الاختيارية المعتمدة في قسم الترجمة، والمجمّعة\n"
+"        في مكان واحد لتسهيل الوصول إليها والاستفادة منها."
+msgstr ""
+
+#: templates/home.html:104 templates/home.html:111
+msgid "ملخصات Tenses Rule"
+msgstr ""
+
+#: templates/home.html:113
+msgid ""
+"ملخصات المواد الإجبارية والاختيارية المعتمدة في قسم الترجمة،\n"
+"        والمُعَدّة والمقدَّمة من قبل مجموعة Tenses Rule،"
+msgstr ""
+
+#: templates/home.html:126
+msgid "مجموعات"
+msgstr ""
+
+#: templates/home.html:129
+msgid "مجموعات طلابية"
+msgstr ""
+
+#: templates/home.html:131
+msgid ""
+"مجموعات تجمع طلاب قسم الترجمة لأهداف تعليمية، تُمكّن الطلبة من\n"
+"        التعاون فيما بينهم وتبادل المعرفة والخبرات وتطوير مستواهم "
+"الأكاديمي."
+msgstr ""
+
+#: templates/home.html:144
+msgid "واتساب"
+msgstr ""
+
+#: templates/home.html:153 templates/home.html:179
+msgid "الطلبة المستجدين 2025"
+msgstr ""
+
+#: templates/home.html:156
+msgid "مجموعة واتس اب للطلبة المستجدين دفعة 2025."
+msgstr ""
+
+#: templates/home.html:171
+msgid "فيسبوك"
+msgstr ""
+
+#: templates/home.html:182
+msgid "مجموعة فيسبوك للطلبة المستجدين دفعة 2025."
+msgstr ""
+
+#: templates/home.html:197
+msgid "مجموعات-طلاب-قسم-الترجمة-جامعة-اليرموك"
+msgstr ""
+
+#: templates/home.html:208
+msgid "مجموعات طلابية لمواد قسم الترجمة الاجبارية."
+msgstr ""
+
+#: templates/home.html:223
+msgid "مجموعات طلاب قسم الترجمة جامعة اليرموك"
+msgstr ""
+
+#: templates/home.html:234
+msgid "مجموعات طلابية لمواد قسم الترجمة الاختيارية."
+msgstr ""
+
+#: templates/home.html:248
+msgid "مقالات"
+msgstr ""
+
+#: templates/home.html:253
+msgid "الوحدة الصرفية والوحدة المعجمية "
+msgstr ""
+
+#: templates/home.html:256
+msgid ""
+"عند دراسة تخصص مرتبط باللغويات مثل الترجمة، لا بد من التمييز بين\n"
+"          الوحدة الصرفية والوحدة المعجمية. هذا المقال يشرح الفرق بينهما\n"
+"          وأهميتهما لطلاب الترجمة..."
+msgstr ""
+
+#: templates/home.html:264 templates/home.html:282
+msgid "اقرأ المقال"
+msgstr ""
+
+#: templates/home.html:271
+msgid "علم المعاني والبرجماتية "
+msgstr ""
+
+#: templates/home.html:274
+msgid ""
+"يعد دراسة اللغة وفهم معانيها من الأمور الأساسية لطلاب الترجمة.\n"
+"          في هذا المقال، نستعرض الفرق بين علم المعاني (Semantics) "
+"والبرجماتية\n"
+"          (Pragmatics)"
+msgstr ""
+
+#: templates/home.html:294
+msgid "رئيس القسم، د. رأفت الروسان"
+msgstr ""
+
+#: templates/home.html:309
+msgid "اقرأ المزيد"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:1
+msgid ""
+"الوحدة الصرفية (morpheme) والوحدة\n"
+"المعجمية (lexeme): لطلاب قسم الترجمة"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:3
+msgid ""
+"الوحدة الصرفية (morpheme) والوحدة المعجمية (lexeme): لطلاب قسم الترجمة في"
+"\n"
+"جامعة اليرموك و طلاب اللغة الانجليزية"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:5
+msgid ""
+"الوحدة الصرفية والوحدة المعجمية. فهم اللغة الانجيزية. تخصص الترجمة. تخصص\n"
+"اللغة الانجليزية"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:12
+msgid ""
+"الوحدة الصرفية (morpheme) والوحدة المعجمية (lexeme): لطلاب قسم\n"
+"        الترجمة"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:16
+msgid ""
+"عند دراسة تخصص مرتبط باللغويات مثل الترجمة، لا بد من التمييز بين\n"
+"        المصطلحين الأساسيين: الوحدة الصرفية (Morpheme) والوحدة المعجمية\n"
+"        (Lexeme)، حيث يلعب كل منهما دورًا مهمًا في تحليل الكلمات وتفسير "
+"بنيتها\n"
+"        ومعانيها."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:24
+msgid "أولًا: الوحدة الصرفية (morpheme) – أصغر وحدة لغوية تحمل معنى"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:30
+msgid ""
+"الوحدة الصرفية هي أصغر وحدة دلالية أو نحوية في اللغة، لا يمكن\n"
+"            تقسيمها إلى وحدات أصغر دون أن تفقد معناها. "
+msgstr ""
+
+#: templates/morphNlexeEssay.html:34
+msgid "تنقسم الوحدات الصرفية إلى نوعين رئيسيين:"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:38
+msgid "1. الوحدات الصرفية الحرة (Free Morphemes)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:41
+msgid "هي الوحدات التي يمكن أن تقف بمفردها وتحمل معنى، مثل:"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:44
+msgid "(play)، (dog)، (house)، (book)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:47
+msgid ""
+"هذه الكلمات يمكن استخدامها بشكل مستقل دون الحاجة إلى إضافات\n"
+"            أخرى."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:52
+msgid "2. الوحدات الصرفية المقيدة (Bound Morphemes)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:55
+msgid ""
+"هي الوحدات التي لا يمكن أن تقف بمفردها ويجب أن ترتبط بكلمة\n"
+"            أخرى لتكتسب معنى، مثل:"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:60
+msgid ""
+"السوابق (Prefixes): مثل (un-) في (unhappy)، و(re-) في\n"
+"              (rewrite)."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:64
+msgid ""
+"اللواحق (Suffixes): مثل (-ed) في (played)، و(-s) في\n"
+"              (dogs)."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:69
+msgid ""
+"هذه الوحدات الصرفية تؤدي دورًا نحويًا أو دلاليًا عند إضافتها\n"
+"            إلى كلمات أخرى."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:74
+msgid "أنواع الوحدات الصرفية المقيدة"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:78
+msgid "1. الوحدات الصرفية التصريفية (Inflectional Morphemes):"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:81
+msgid ""
+"لا تغيّر معنى الكلمة أو وظيفتها النحوية، لكنها تضيف معلومات\n"
+"            نحوية مثل الزمن أو العدد. مثال:"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:86
+msgid ""
+"(-s) في (cats) تدل على الجمع، و(-ed) في (talked) تدل على\n"
+"              الماضي."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:92
+msgid "2. الوحدات الصرفية الاشتقاقية (Derivational Morphemes):"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:95
+msgid "تغير معنى الكلمة أو وظيفتها النحوية. مثال:"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:99
+msgid ""
+"إضافة (-er) إلى (teach) لتصبح (teacher)، حيث تحولت الكلمة من\n"
+"              فعل إلى اسم."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:109
+msgid "ثانيًا: الوحدة المعجمية (lexeme) – المدخل الأساسي في القاموس"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:115
+msgid ""
+"الوحدة المعجمية هي الشكل الأساسي أو الجذري للكلمة، والذي يمكن\n"
+"            أن يأخذ عدة أشكال تصريفية دون أن يغير معناه الجوهري. بمعنى "
+"آخر، هي\n"
+"            المدخل الذي يظهر في القاموس، بينما تختلف أشكاله التصريفية "
+"(Word\n"
+"            Forms) بناءً على التصريفات"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:121
+msgid "خصائص الوحدة المعجمية:"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:124
+msgid "1. تمثل جميع الأشكال الصرفية لكلمة معينة"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:127
+msgid ""
+"مثال: الكلمة (run) تشمل الأشكال التالية ضمن نفس الوحدة\n"
+"            المعجمية:"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:131
+msgid "(run) (المضارع)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:132
+msgid "(running) (المضارع المستمر)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:133
+msgid "(ran) (الماضي)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:134
+msgid "(runs) (الشكل المفرد للفعل في المضارع البسيط)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:137
+msgid ""
+"جميع هذه الكلمات تنتمي إلى الوحدة المعجمية (run)، لكنها تختلف\n"
+"            في الشكل النحوي."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:142
+msgid "2. يمكن أن تكون اسمًا، فعلًا أو صفة"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:146
+msgid "مثال على الأسماء: (child) يشمل (child) و(children)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:149
+msgid "مثال على الصفات: (good) يشمل (good)، (better)، (best)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:151
+msgid "مثال على الأفعال: (go) يشمل (go)، (went)، (gone)"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:155
+msgid "3. تظهر كمدخل رئيسي في القواميس"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:158
+msgid ""
+"عند البحث عن كلمة في القاموس، نجد الوحدة المعجمية الأساسية\n"
+"            للكلمة وليس أشكالها المختلفة."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:163
+msgid ""
+"مثلًا، عند البحث عن (talks)، نجد الكلمة (talk) كمدخل رئيسي،\n"
+"              مع توضيح أشكالها الصرفية الأخرى."
+msgstr ""
+
+#: templates/morphNlexeEssay.html:172 templates/semaNpragEssay.html:154
+msgid "خاتمة"
+msgstr ""
+
+#: templates/morphNlexeEssay.html:176
+msgid ""
+"يعد التفريق بين الوحدة الصرفية و الوحدة المعجمية أمرًا ضروريًا\n"
+"            لفهم كيفية بناء الكلمات ومعانيها المختلفة. فالوحدة الصرفية هي"
+" أصغر\n"
+"            وحدة تحمل معنى، في حين أن الوحدة المعجمية هي المدخل الأساسي "
+"للكلمة\n"
+"            بصرف النظر عن أشكالها المختلفة. من خلال استيعاب هذه المفاهيم،"
+" يمكن\n"
+"            لطلاب قسم الترجمة تحسين مهاراتهم في تحليل النصوص وفهم "
+"الفروقات\n"
+"            الدقيقة بين الكلمات في اللغات المختلفة."
+msgstr ""
+
+#: templates/semaNpragEssay.html:1
+msgid ""
+"علم المعاني والبرجماتية واهمية\n"
+"التمييز بينهما: لطلاب قسم الترجمة"
+msgstr ""
+
+#: templates/semaNpragEssay.html:3
+msgid ""
+"الفرق بين علم المعاني والبرجماتية واهمية التمييز بينهما لطلاب قسم الترجمة"
+" في\n"
+"جامعة اليرموك و طلاب اللغة الانجليزية"
+msgstr ""
+
+#: templates/semaNpragEssay.html:5
+msgid ""
+"علم المعاني. البرجماتية. فهم اللغة الانجيزية. تخصص الترجمة. تخصص اللغة\n"
+"الانجليزية"
+msgstr ""
+
+#: templates/semaNpragEssay.html:12
+msgid "علم المعاني والبرجماتية وأهمية التمييز بينهما: لطلاب قسم الترجمة"
+msgstr ""
+
+#: templates/semaNpragEssay.html:17
+msgid ""
+"تُعد دراسة اللغة وفهم معانيها من الأمور الأساسية لطلاب الترجمة،\n"
+"        حيث تتطلب عملية الترجمة إدراكًا دقيقًا للمعاني المباشرة "
+"والمقصودة. في\n"
+"        هذا السياق، يُعتبر علم المعاني (Semantics) والبرجماتية "
+"(Pragmatics) من\n"
+"        أهم فروع علم اللغة التي تسهم في فهم المعنى اللغوي بشكل دقيق. وعلى"
+" الرغم\n"
+"        من تشابههما في بعض النواحي، إلا أن لكل منهما نطاقًا ووظيفة مختلفة."
+msgstr ""
+
+#: templates/semaNpragEssay.html:27
+msgid "أولًا: تعريف علم المعاني (Semantics)"
+msgstr ""
+
+#: templates/semaNpragEssay.html:32
+msgid ""
+"علم المعاني هو فرع من علم اللغة يدرس المعنى المجرد والمحدد\n"
+"            للكلمات والجمل بغض النظر عن السياق الذي تُستخدم فيه. بمعنى "
+"آخر، يهتم\n"
+"            علم المعاني بدراسة المعاني الحرفية والواضحة للتعبيرات اللغوية"
+" كما هي\n"
+"            في القاموس أو القواعد النحوية."
+msgstr ""
+
+#: templates/semaNpragEssay.html:38
+msgid "خصائص علم المعاني:"
+msgstr ""
+
+#: templates/semaNpragEssay.html:40
+msgid "يركز على المعاني المعجمية للكلمات."
+msgstr ""
+
+#: templates/semaNpragEssay.html:42
+msgid ""
+"يدرس العلاقات الدلالية مثل الترادف (Synonymy) والتضاد\n"
+"              (Antonymy) والتضمين (Hyponymy)."
+msgstr ""
+
+#: templates/semaNpragEssay.html:46
+msgid ""
+"يعتمد على قواعد اللغة والهيكل النحوي لفهم المعنى دون التأثر\n"
+"              بالسياق."
+msgstr ""
+
+#: templates/semaNpragEssay.html:49
+msgid "يُستخدم لفهم التفسيرات الرسمية والمحددة للغة."
+msgstr ""
+
+#: templates/semaNpragEssay.html:52
+msgid "أمثلة على علم المعاني:"
+msgstr ""
+
+#: templates/semaNpragEssay.html:55
+msgid ""
+"الجملة: (الشمس تشرق من الشرق). هنا، يكون المعنى واضحًا وغير\n"
+"              قابل للتغيير، بغض النظر عن سياق المحادثة."
+msgstr ""
+
+#: templates/semaNpragEssay.html:59
+msgid ""
+"كلمة (نجمة) تعني جرمًا سماويًا مشعًا أو يمكن أن تعني شخصية\n"
+"              مشهورة، لكن علم المعاني يركز على المعنى القاموسي لكل "
+"استخدام."
+msgstr ""
+
+#: templates/semaNpragEssay.html:69
+msgid "ثانيًا: البرجماتية (Pragmatics)"
+msgstr ""
+
+#: templates/semaNpragEssay.html:74
+msgid ""
+"البرجماتية، أو علم التداولية، هو فرع من علم اللغة يركز على\n"
+"            كيفية تأويل المعاني اعتمادًا على السياق والموقف والنية "
+"التواصلية.\n"
+"            بخلاف علم المعاني، لا تقتصر البرجماتية على المعاني القاموسية "
+"بل تهتم\n"
+"            بكيفية استخدام اللغة لتحقيق أغراض تواصلية محددة."
+msgstr ""
+
+#: templates/semaNpragEssay.html:80
+msgid "خصائص البرجماتية:"
+msgstr ""
+
+#: templates/semaNpragEssay.html:82
+msgid "تهتم بالمعنى الضمني والمقصود للكلمات والجمل."
+msgstr ""
+
+#: templates/semaNpragEssay.html:84
+msgid ""
+"تدرس تأثير السياق والعوامل الاجتماعية والثقافية على الفهم\n"
+"              اللغوي."
+msgstr ""
+
+#: templates/semaNpragEssay.html:88
+msgid ""
+"تعتمد على نظرية الأفعال الكلامية (Speech Acts) مثل الأوامر\n"
+"              والوعود والتلميحات."
+msgstr ""
+
+#: templates/semaNpragEssay.html:92
+msgid ""
+"تأخذ في الاعتبار معرفة المتحدث والمستمع ومجريات الحديث عند\n"
+"              تحديد المعنى."
+msgstr ""
+
+#: templates/semaNpragEssay.html:97
+msgid "أمثلة على البرجماتية:"
+msgstr ""
+
+#: templates/semaNpragEssay.html:100
+msgid ""
+"الجملة: (هل يمكنك فتح النافذة؟). من الناحية الدلالية، هذه\n"
+"              الجملة مجرد سؤال عن قدرة الشخص على فتح النافذة، لكن من "
+"الناحية\n"
+"              البرجماتية، تُفهم على أنها طلب لفتح النافذة."
+msgstr ""
+
+#: templates/semaNpragEssay.html:105
+msgid ""
+"عند قول شخص (الجو بارد هنا) أثناء جلوسه في غرفة مغلقة، يمكن\n"
+"              أن يكون يقصد ضمنيًا طلب إغلاق النافذة دون أن يصرّح بذلك "
+"صراحة."
+msgstr ""
+
+#: templates/semaNpragEssay.html:116
+msgid "أهمية التمييز بين علم المعاني والبرجماتية في الترجمة"
+msgstr ""
+
+#: templates/semaNpragEssay.html:121
+msgid ""
+"لطلاب الترجمة، يُعتبر فهم الفرق بين علم المعاني والبرجماتية\n"
+"            أمرًا جوهريًا، حيث يؤثر على جودة ودقة الترجمة. الترجمة "
+"الحرفية قد\n"
+"            تتجاهل المعاني الضمنية، مما يؤدي إلى سوء فهم النصوص، بينما "
+"يساعد\n"
+"            إدراك البرجماتية على تقديم ترجمة أكثر دقة وملاءمة للسياق."
+msgstr ""
+
+#: templates/semaNpragEssay.html:127
+msgid "مثال تطبيقي في الترجمة"
+msgstr ""
+
+#: templates/semaNpragEssay.html:129
+msgid "النص باللغة الإنجليزية هو (It's raining cats and dogs)."
+msgstr ""
+
+#: templates/semaNpragEssay.html:134
+msgid "علم المعاني:"
+msgstr ""
+
+#: templates/semaNpragEssay.html:135
+msgid "إنها تمطر قططًا وكلابًا"
+msgstr ""
+
+#: templates/semaNpragEssay.html:140
+msgid "البرجماتية:"
+msgstr ""
+
+#: templates/semaNpragEssay.html:141
+msgid "إنها تمطر بغزارة"
+msgstr ""
+
+#: templates/semaNpragEssay.html:146
+msgid ""
+"يظهر هنا كيف أن الترجمة القائمة على الفهم البرجماتي تكون أكثر\n"
+"            دقة ووضوحًا في سياق اللغة الهدف."
+msgstr ""
+
+#: templates/semaNpragEssay.html:158
+msgid ""
+"يمثل علم المعاني والبرجماتية جانبين متكاملين لفهم اللغة،\n"
+"            فالأول يهتم بالمعنى القاموسي الثابت، بينما يهتم الثاني بكيفية"
+"\n"
+"            استخدام اللغة في المواقف المختلفة. ولطلاب الترجمة، يُعد الوعي"
+" بهذه\n"
+"            الفروق ضروريًا لتقديم ترجمات دقيقة تحافظ على المعنى الحقيقي "
+"للنصوص\n"
+"            مع مراعاة السياق الثقافي والتواصلي."
+msgstr ""
+
+#: templates/studyplan.html:1 templates/studyplan.html:16
+msgid "الخطط الشجرية"
+msgstr ""
+
+#: templates/studyplan.html:2
+msgid "الخطط الشجرية لقسم الترجمة جامعة اليرموك"
+msgstr ""
+
+#: templates/studyplan.html:8
+msgid "الخطط الشجرية لقسم الترجمة التحريرية والشفوية"
+msgstr ""
+
+#: templates/studyplan.html:26
+msgid "الخطة الشجرية 2022 فما قبل"
+msgstr ""
+
+#: templates/studyplan.html:50
+msgid "الخطة الشجرية 2023 فما بعد"
+msgstr ""
+
+#: templates/viewPlan.html:31
+msgid "تحميل الملف"
+msgstr ""
+
+#: templates/viewPlan.html:34
+msgid "اضغط لتحميل الخطة الدراسية بصيغة PDF"
+msgstr ""
+

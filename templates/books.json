@@ -1,0 +1,196 @@
+{
+  "mandatory": {
+    "TRA101": [],
+    "TRA102": [],
+    "TRA104": [],
+    "TRA105": [],
+    "TRA202": [],
+    "TRA208": [
+      {
+        "name": "More Reading Power",
+        "image": "more-reading-power-book-by-Beatrice-and-Linda-latest-version",
+        "author": "Beatrice S. Mikulecky & Linda Jeffries",
+        "link": "https://drive.google.com/file/d/1Q2I3Lsa8kJBBQNwd02qa1LcyKEkkKkGX/view?usp=sharing"
+      }
+    ],
+    "TRA230": [],
+    "TRA232": [],
+    "TRA241": [],
+    "TRA320": [],
+    "TRA206": [],
+    "TRA311": [],
+    "TRA321": [],
+    "TRA330": [],
+    "TRA332": [],
+    "TRA333": [],
+    "TRA334": [],
+    "TRA335": [],
+    "TRA430": [],
+    "TRA431": []
+  },
+  "elective": {
+    "TRA312": [],
+    "TRA433": [],
+    "TRA412": [],
+    "TRA340": []
+  },
+  "tenses_rule": {
+    "TRA101": [],
+    "TRA102": [],
+    "TRA202": [],
+    "TRA104": [],
+    "TRA210": [],
+    "TRA230": [],
+    "TRA232": [],
+    "TRA311": [],
+    "TRA320": [],
+    "TRA335": [],
+    "TRA333": [],
+    "TRA334": [],
+    "TRA340": [],
+    "TRA412": [],
+    "TRA431": [],
+    "TRA433A": [],
+    "TRA439": []
+  },
+  "suggested_books": [],
+  "suggested_summaries": {
+    "TRA101": [],
+    "TRA102": [],
+    "TRA104": [],
+    "TRA105": [],
+    "TRA202": [],
+    "TRA208": [],
+    "TRA230": [],
+    "TRA232": [],
+    "TRA241": [],
+    "TRA320": [],
+    "TRA206": [],
+    "TRA311": [],
+    "TRA321": [],
+    "TRA330": [],
+    "TRA332": [],
+    "TRA333": [],
+    "TRA334": [],
+    "TRA335": [],
+    "TRA430": [],
+    "TRA431": [],
+    "TRA312": [],
+    "TRA433": [],
+    "TRA412": [],
+    "TRA340": [],
+    "TRA210": [],
+    "TRA433A": [],
+    "TRA439": []
+  },
+  "codes": {
+    "TRA101": {
+      "ar": "قواعد اللغة الانجليزية (1)",
+      "en": "English Grammar (1)"
+    },
+    "TRA102": {
+      "ar": "قواعد اللغة الانجليزية (2)",
+      "en": "English Grammar (2)"
+    },
+    "TRA104": {
+      "ar": "كتابة الفقرة في اللغة الإنجليزية",
+      "en": "Writing a Paragraph in English"
+    },
+    "TRA105": {
+      "ar": "صوتيات اللغة الإنجليزية",
+      "en": "English Phonetics"
+    },
+    "TRA202": {
+      "ar": "النحو التطبيقي المقارن",
+      "en": "Comparative Applied Grammar"
+    },
+    "TRA208": {
+      "ar": "قراءة متقدمة باللغة الإنجليزية",
+      "en": "Advanced Reading in English"
+    },
+    "TRA230": {
+      "ar": "ترجمة عامة (E-ع)",
+      "en": "Gerneral Translation (En-Ar)"
+    },
+    "TRA232": {
+      "ar": "ترجمة عامة (ع-E)",
+      "en": "Gerneral Translation (Ar-En)"
+    },
+    "TRA241": {
+      "ar": "مقدمة في نظريات الترجمة",
+      "en": "Introduction to Translation Theories"
+    },
+    "TRA320": {
+      "ar": "قواعد متقدمة باللغة الانجليزية",
+      "en": "Advanced Grammar in English"
+    },
+    "TRA206": {
+      "ar": "كتابة المقال في اللغة الانجليزية",
+      "en": "Essay Writing in English"
+    },
+    "TRA311": {
+      "ar": "الترجمة الأدبية",
+      "en": "Literary Translation"
+    },
+    "TRA321": {
+      "ar": "علم المعاني والبراجماتية",
+      "en": "Semantics and Pragmatics"
+    },
+    "TRA330": {
+      "ar": "الترجمة التتابعة والفورية (E-ع)",
+      "en": "Simultaneous and Consecutive Translation (En-Ar)"
+    },
+    "TRA332": {
+      "ar": "الترجمة بإستخدام الحاسوب",
+      "en": "Computer-Assisted Translation (CAT)"
+    },
+    "TRA333": {
+      "ar": "الترجمة القانونية",
+      "en": "Legal Translation"
+    },
+    "TRA334": {
+      "ar": "الترجمة الاعلامية",
+      "en": "Media Translation"
+    },
+    "TRA335": {
+      "ar": "الترجمة التقنية",
+      "en": "Technical Translation"
+    },
+    "TRA430": {
+      "ar": "تحليل الخطاب",
+      "en": "Discourse Analysis"
+    },
+    "TRA431": {
+      "ar": "النحو العربي لأغراض الترجمة",
+      "en": "Arabic Grammar in Translation"
+    },
+    "TRA312": {
+      "ar": "الترجمة السمعبصرية",
+      "en": "Audio-Visual Translation"
+    },
+    "TRA433": {
+      "ar": "الترجمة والسياحة",
+      "en": "Translation and Tourism"
+    },
+    "TRA412": {
+      "ar": "ترجمة القصة القصيرة",
+      "en": "Short Stories Translation"
+    },
+    "TRA340": {
+      "ar": "المعاجم والمصطلحات",
+      "en": "Lexicography"
+    },
+    "TRA210": {
+      "ar": "مدخل الى الأدب الإنجليزي والعربي",
+      "en": "Introduction to English and Arabic Literature"
+    },
+    "TRA433A": {
+      "ar": "الترجمة والسياحة",
+      "en": "Translation and Tourism"
+    },
+    "TRA439": {
+      "ar": "مشروع التخرج",
+      "en": "Graduation Project"
+    }
+  }
+}

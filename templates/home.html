@@ -1,0 +1,322 @@
+{% extends "base.html" %} {% block keywords %}{{ _('تخصص الترجمة. جامعة
+اليرموك.الترجمة التحريرية والشفوية.قسم الترجمة جامعة اليرموك.موقع قسم الترجمة')
+}}{% endblock %} {% block title %}{{ pgettext('home_title', 'الصفحة الرئيسية')
+}}{% endblock %} {% block description %}{{ _('موقع تعليمي لطلاب قسم الترجمة في
+جامعة اليرموك: ملخصات كتب، مجموعات واتساب، معلومات أساتذة، ومراجع تعليمية. انضم
+الآن لتسهيل دراستك') }}{% endblock %} {% block content %}
+
+<div class="hero container-fluid px-4 py-5">
+  <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+    <div class="col-10 col-sm-8 col-lg-6">
+      <img
+        src="{{url_for('content.send_image', filename= 'hero_img.webp')}}"
+        class="hero_img d-block mx-lg-auto img-fluid"
+        alt="Bootstrap Themes"
+        width="600"
+        height="400"
+        loading="lazy"
+      />
+    </div>
+    <div class="col-lg-6">
+      <h1
+        style="font-family: Poppins, sans-serif"
+        class="hero-title display-5 fw-bold lh-1 mb-3"
+      >
+        {{_("موقع قسم الترجمة")}}
+      </h1>
+      <p class="lead">
+        {{ _('مساعدة وإرشاد طلاب قسم الترجمة التحريرية والشفوية في جامعة اليرموك
+        في العثور على كتب مواد القسم وملخصات و مجموعات طلابية.') }}
+      </p>
+      <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSdlLsOXX3gm647zsChnlOsgO6ybKBrF-It6TNOVIDkNinIc7g/viewform?usp=header"
+          target="_blank"
+          class="btn btn-success btn-lg px-4 me-md-2"
+        >
+          {{_('مشاركة ملخص/كتاب')}}
+        </a>
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSc2CXFt2-EONhNdMMSHXVfyWd5sC-0NfEYsIrRJ5Ks_B4iSVQ/viewform?usp=publish-editor"
+          target="_blank"
+          class="btn btn-outline-success btn-lg px-4"
+        >
+          {{_('مشاركة مقال')}}
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid mt-5 px-5" id="featured-3">
+  <h2 class="section-title pb-2 border-bottom">{{ _('المواد التعليمية') }}</h2>
+  <div class="row g-4 py-5 row-cols-lg-3">
+    <div class="float-item feature col-sm-12 col-md-6">
+      <div
+        class="feature-icon d-inline-flex align-items-center justify-content-center bg-gradient fs-2 mb-3"
+      >
+        <img
+          src="{{ url_for('content.send_image', filename='mand_logo.svg')}}"
+          alt="{{ _('قسم إجباري') }}"
+          ,
+          width="50"
+          ,
+          height="50"
+        />
+      </div>
+      <h3 class="secondary-title fs-2">{{ _('قسم اجباري') }}</h3>
+      <p>
+        {{_("الكتب الخاصة بالمواد الإجبارية المعتمدة في قسم الترجمة، والمجمّعة
+        في مكان واحد لتسهيل الوصول إليها والاستفادة منها.")}}
+      </p>
+      <a
+        href="{{url_for('books.mandatory')}}"
+        class="w-100 btn btn-outline-success"
+      >
+        {{_('عرض')}}
+      </a>
+    </div>
+    <div class="float-item feature col-sm-12 col-md-6">
+      <div
+        class="feature-icon d-inline-flex align-items-center justify-content-center bg-gradient fs-2 mb-3"
+      >
+        <img
+          class="TG_logo"
+          src="{{ url_for('content.send_image', filename='elect_logo.svg')}}"
+          alt="{{ _('قسم اختياري') }}"
+          ,
+          width="50"
+          ,
+          height="50"
+        />
+      </div>
+      <h3 class="fs-2 secondary-title">{{ _('قسم اختياري') }}</h3>
+      <p>
+        {{_("الكتب الخاصة بالمواد الاختيارية المعتمدة في قسم الترجمة، والمجمّعة
+        في مكان واحد لتسهيل الوصول إليها والاستفادة منها.")}}
+      </p>
+      <a
+        href="{{url_for('books.optional')}}"
+        class="w-100 btn btn-outline-success"
+      >
+        {{_('عرض')}}
+      </a>
+    </div>
+    <div class="float-item feature col-sm-12 col-md-6">
+      <div
+        class="feature-icon d-inline-flex align-items-center justify-content-center bg-gradient fs-2 mb-3"
+      >
+        <img
+          class="TG_logo"
+          src="{{ url_for('content.send_image', filename='tenses-rule-logo.webp')}}"
+          alt="{{ _('ملخصات Tenses Rule') }}"
+          ,
+          width="50"
+          ,
+          height="50"
+        />
+      </div>
+      <h3 class="fs-2 secondary-title">{{ _('ملخصات Tenses Rule') }}</h3>
+      <p>
+        {{_('ملخصات المواد الإجبارية والاختيارية المعتمدة في قسم الترجمة،
+        والمُعَدّة والمقدَّمة من قبل مجموعة Tenses Rule،')}}
+      </p>
+      <a
+        href="{{url_for('books.tenses_rule')}}"
+        class="w-100 btn btn-outline-success"
+      >
+        {{_('عرض')}}
+      </a>
+    </div>
+  </div>
+</div>
+<div class="container-fluid shadow-sm bg-light mt-5 p-5">
+  <h2 class="pb-2 section-title border-bottom">{{ _('مجموعات') }}</h2>
+  <div class="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
+    <div class="col d-flex flex-column align-items-start gap-2">
+      <h2 class="fw-bold green-font">{{ _('مجموعات طلابية') }}</h2>
+      <p class="text-body-secondary">
+        {{ _('مجموعات تجمع طلاب قسم الترجمة لأهداف تعليمية، تُمكّن الطلبة من
+        التعاون فيما بينهم وتبادل المعرفة والخبرات وتطوير مستواهم الأكاديمي.')
+        }}
+      </p>
+    </div>
+    <div class="col">
+      <div class="row row-cols-1 row-cols-sm-2 g-4">
+        <div class="float-item col d-flex flex-column gap-2">
+          <div
+            class="feature-icon-small d-inline-flex align-items-center justify-content-start fs-4 rounded-3"
+          >
+            <img
+              src="{{ url_for('content.send_image', filename='whatsapp_logo.webp')}}"
+              alt="{{ _('واتساب') }}"
+              ,
+              width="50"
+              ,
+              height="50"
+              ,
+            />
+          </div>
+          <h4 class="fw-semibold mb-0 secondary-title">
+            {{ _('الطلبة المستجدين 2025') }}
+          </h4>
+          <p class="text-body-secondary">
+            {{ _('مجموعة واتس اب للطلبة المستجدين دفعة 2025.') }}
+          </p>
+          <a
+            href="{{url_for('books.mandatory')}}"
+            class="w-100 btn btn-outline-success"
+          >
+            {{_('عرض')}}
+          </a>
+        </div>
+        <div class="float-item col d-flex flex-column gap-2">
+          <div
+            class="feature-icon-small d-inline-flex align-items-center justify-content-start fs-4 rounded-3"
+          >
+            <img
+              src="{{ url_for('content.send_image', filename='facebook_logo.webp')}}"
+              alt="{{ _('فيسبوك') }}"
+              ,
+              width="50"
+              ,
+              height="50"
+            />
+          </div>
+          <h4 class="fw-semibold mb-0 secondary-title">
+            {{ _('الطلبة المستجدين 2025') }}
+          </h4>
+          <p class="text-body-secondary">
+            {{ _('مجموعة فيسبوك للطلبة المستجدين دفعة 2025.') }}
+          </p>
+          <a
+            href="{{url_for('books.mandatory')}}"
+            class="w-100 btn btn-outline-success"
+          >
+            {{_('عرض')}}
+          </a>
+        </div>
+        <div class="float-item col d-flex flex-column gap-2">
+          <div
+            class="feature-icon-small d-inline-flex align-items-center justify-content-start fs-4 rounded-3"
+          >
+            <img
+              src="{{ url_for('content.send_image', filename='mand_groups_logo.svg')}}"
+              alt="{{ _('مجموعات-طلاب-قسم-الترجمة-جامعة-اليرموك') }}"
+              ,
+              width="50"
+              ,
+              height="50"
+            />
+          </div>
+          <h4 class="fw-semibold mb-0 secondary-title">
+            {{ _('قسم اجباري') }}
+          </h4>
+          <p class="text-body-secondary">
+            {{ _('مجموعات طلابية لمواد قسم الترجمة الاجبارية.') }}
+          </p>
+          <a
+            href="{{url_for('groups.groups_mand')}}"
+            class="w-100 btn btn-outline-success"
+          >
+            {{_('عرض')}}
+          </a>
+        </div>
+        <div class="float-item col d-flex flex-column gap-2">
+          <div
+            class="feature-icon-small d-inline-flex align-items-center justify-content-start fs-4 rounded-3"
+          >
+            <img
+              src="{{ url_for('content.send_image', filename='elect_groups_logo.svg')}}"
+              alt="{{ _('مجموعات طلاب قسم الترجمة جامعة اليرموك') }}"
+              ,
+              width="50"
+              ,
+              height="50"
+            />
+          </div>
+          <h4 class="fw-semibold mb-0 secondary-title">
+            {{ _('قسم اختياري') }}
+          </h4>
+          <p class="text-body-secondary">
+            {{ _('مجموعات طلابية لمواد قسم الترجمة الاختيارية.') }}
+          </p>
+          <a
+            href="{{url_for('groups.groups_elect')}}"
+            class="card-link w-100 btn btn-outline-success"
+          >
+            {{_('عرض')}}
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid mt-5 p-5" id="featured-3">
+  <h2 class="section-title pb-2 border-bottom">{{ _('مقالات') }}</h2>
+  <div class="row d-flex justify-content-center g-4 py-5 row-cols-lg-3">
+    <div class="card shadow-sm col-xs-12 col-sm-6 m-3 float-item">
+      <div class="card-body">
+        <h5 class="card-title text-center secondary-title">
+          {{ _('الوحدة الصرفية والوحدة المعجمية ') }}
+        </h5>
+        <p class="card-text">
+          {{ _('عند دراسة تخصص مرتبط باللغويات مثل الترجمة، لا بد من التمييز بين
+          الوحدة الصرفية والوحدة المعجمية. هذا المقال يشرح الفرق بينهما
+          وأهميتهما لطلاب الترجمة...') }}
+        </p>
+        <a
+          href="{{url_for('essays.morpheme_lexeme')}}"
+          class="w-100 btn btn-outline-success"
+        >
+          {{ _('اقرأ المقال') }}</a
+        >
+      </div>
+    </div>
+    <div class="card shadow-sm col-xs-12 col-sm-6 m-3 float-item">
+      <div class="card-body">
+        <h5 class="card-title text-center secondary-title">
+          {{ _('علم المعاني والبرجماتية ') }}
+        </h5>
+        <p class="card-text">
+          {{ _('يعد دراسة اللغة وفهم معانيها من الأمور الأساسية لطلاب الترجمة.
+          في هذا المقال، نستعرض الفرق بين علم المعاني (Semantics) والبرجماتية
+          (Pragmatics)') }}
+        </p>
+        <a
+          href="{{url_for('essays.semantics_pragmatics')}}"
+          class="w-100 btn btn-outline-success"
+        >
+          {{ _('اقرأ المقال') }}</a
+        >
+      </div>
+    </div>
+  </div>
+</div>
+<div class="my-5 shadow-sm float-item">
+  <div class="p-5 text-center bg-body-tertiary">
+    <div class="container py-5">
+      <h2 class="section-title pb-4 border-bottom">
+        {{ _('عن قسم الترجمة التحريرية والشفوية') }}
+      </h2>
+      <h3 class="secondary-title">{{ _('رئيس القسم، د. رأفت الروسان') }}</h3>
+      <p
+        style="text-align: justify; text-justify: inter-word; hyphens: auto"
+        class="col-lg-8 mx-auto lead"
+      >
+        {{_('أنشىء قسم الترجمة في مطلع العام الجامعي 2008/2009، وهو الأول من
+        نوعه في الجامعات الأردنية الرسمية. وجاء تأسيس القسم نظرا للحاجة الماسة
+        لتوفير المترجمين المؤهلين في كافة المجالات كالترجمة التحريرية والشفوية
+        وترجمة المؤتمرات والندوات . يعد قسم الترجمة ديناميكيا ومتطورا حيث يمنح
+        القسم درجتين: درجة البكالوريوس و الماجستير في الترجمة حيث انتقل هذا
+        الأخير من قسم اللغة الانجليزية في العام الجامعي 2010/2011، ويخطط القسم
+        حاليا لمنح درجتي الماجستير في الترجمة الشفوية ودرجة الدكتوراة في
+        الترجمة.')}}
+      </p>
+      <a href="{{url_for('about')}}" class="btn btn-outline-success"
+        >{{_('اقرأ المزيد')}}</a
+      >
+    </div>
+  </div>
+</div>
+{% endblock %}

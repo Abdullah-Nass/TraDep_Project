@@ -1,0 +1,85 @@
+:root {
+  --maincolor: #49bbbc;
+  --seconderycolor: #2f261c;
+  --thirdcolor: #f8f8f895;
+  --fourthcolor: #6c9d6f;
+  --unique-font: #f3e5f5;
+  --secondery-background: linear-gradient(
+    to bottom right,
+    rgb(40, 1, 100, 0.88),
+    rgb(40, 1, 100),
+    rgb(17, 120, 122)
+  );
+  --page-style-main-color: #280164;
+
+  --page-style-secondery-color: #512d88;
+  --page-style-third-color: #2e7071;
+}
+
+#theEssay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  margin: 40px 5px 0;
+  background-color: #ffffff;
+  padding: 15px 10px;
+  border-radius: 4px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  line-height: 2.5;
+  text-align: justify;
+  text-justify: inner-word;
+  hyphens: auto;
+  color: #333;
+}
+
+.essayTitle {
+  font-size: 21px;
+  text-align: center;
+  font-weight: 900;
+  color: var(--page-style-third-color);
+  padding: 4px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  width: fit-content;
+  background: #f1f1f1f1;
+  align-self: center;
+}
+
+.paragraphOfEssay {
+  font-size: 16px;
+  font-weight: 650;
+  margin-top: 10px;
+  padding-right: 5px;
+}
+.miniTitle {
+  font-size: 18px;
+  font-weight: 900;
+  margin-top: 20px;
+  color: var(--page-style-third-color);
+  padding: 4px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  width: fit-content;
+  background: #f1f1f1f1;
+}
+.miniTitle:hover,
+.essayTitle:hover {
+  transform: translateY(-1px);
+}
+#theEssay ul li {
+  font-size: 15px;
+  font-weight: 600;
+  list-style: square;
+  padding: 5px 0 !important;
+}
+#theEssay ul {
+  margin: 20px 0;
+  padding-right: 25px;
+}
+
+@media (min-width: 1000px) {
+  #theEssay {
+    margin: 60px 100px;
+  }
+}

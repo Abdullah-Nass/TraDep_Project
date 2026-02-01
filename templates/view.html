@@ -1,0 +1,49 @@
+{% extends "base.html" %} {% block title %}{{title}}{% endblock %} {% block
+description %} {{description}} {% endblock %} {% block content %}
+<div class="page-intro text-secondary px-4 py-5 text-center">
+  <div class="py-5">
+    <h1 class="hero-title display-5 fw-bold">{{title}}</h1>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row g-4 py-5 row-cols-1 row-cols-md-2 row-cols-lg-3">
+    {% for x in dic %} {% for y in dic[x] %}
+    <div class="col float-item">
+      <div
+        class="position-relative h-100 bg-light shadow-sm d-flex flex-column justify-content-center align-items-center p-4 gap-2"
+      >
+        {% if is_groups %}
+        <img
+          src="{{ url_for('content.send_image', filename='no_logo.webp')}}"
+          alt="{{y['image']}}"
+          ,
+          width="100"
+        />
+
+        {% else %}
+        <img
+          class="book-image"
+          src="{{ url_for('content.send_cover',dir_name = dirname, file_cover=y['image'] + '.webp')}}"
+          alt="{{y['image']}}"
+        />
+        <h4 class="text-center">{{ y["name"] }}</h4>
+        {% if y['author'] %}
+        <h6 class="text-secondary">{{y['author']}}</h6>
+        {% endif %} {% endif %}
+
+        <div class="text-center mb-5 section-title">{{ choices[x] }}</div>
+        <a
+          class="btn btn-outline-success position-absolute bottom-0 start-50 translate-middle-x mb-2"
+          href="{{y['link']}}"
+          target="_blank"
+        >
+          {{_('عرض')}}
+        </a>
+      </div>
+    </div>
+
+    {% endfor %} {% endfor %}
+  </div>
+</div>
+{% endblock %}
