@@ -2,7 +2,7 @@
 
 🌐 **Live Website**: [https://tradep.pythonanywhere.com](https://tradep.pythonanywhere.com)
 
-A Flask web application for the Translation Department at Yarmouk University.
+A Flask web application for the Translation Department at Yarmouk University so it is easier for studetns to find books and summaries.
 
 ## Features
 
