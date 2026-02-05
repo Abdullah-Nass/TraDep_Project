@@ -7,11 +7,11 @@ from groups import Groups_Mand
 from studyPlan import Studyplan
 from flask_babel import Babel, gettext as _
 from datetime import datetime
-
-
+from dotenv import load_dotenv
+load_dotenv()
 app = Flask(__name__)
 
-app.secret_key = os.urandom(24)  
+app.secret_key = os.getenv("secret_key") 
 
 app.config['BABEL_TRANSLATION_DIRECTORIES'] = './translations'
 app.config["LANGUAGES"] = {
