@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TraDep VERSION\n"
 "Report-Msgid-Bugs-To: abdallahalk8@gmail.com\n"
-"POT-Creation-Date: 2026-01-30 21:53+0300\n"
+"POT-Creation-Date: 2026-02-05 18:33+0300\n"
 "PO-Revision-Date: 2026-01-30 21:35+0300\n"
 "Last-Translator: Abdullah Nasser <abdallahalk8@gmail.com>\n"
-"Language-Team: ar <LL@li.org>\n"
 "Language: ar\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: ar <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: books.py:14 groups.py:15
@@ -138,21 +138,22 @@ msgstr "A Special Topic in Translation"
 msgid "كتب مساقات قسم الترجمة جامعة اليرموك الاجبارية"
 msgstr "Requirement Courses Books"
 
-#: books.py:49 templates/home.html:59 templates/home.html:205
+#: books.py:49 templates/home.html:67 templates/home.html:213
 #: templates/studyplan.html:32 templates/studyplan.html:56
 msgid "قسم اجباري"
 msgstr "Requirement Courses"
 
 #: books.py:51
 msgid ""
-"موقع تعليمي لطلاب قسم الترجمة في جامعة اليرموك: اكتشف مجموعة واسعة من كتب "
-"الترجمة والمراجع العلمية لطلاب قسم الترجمة لمواد القسم الاجبارية في جامعة "
-"اليرموك. وفر وقتك مع موارد تعليمية شاملة جاهزة للتحميل مجانا لدعم دراستك"
+"موقع تعليمي لطلاب قسم الترجمة في جامعة اليرموك: اكتشف مجموعة واسعة من كتب"
+" الترجمة والمراجع العلمية لطلاب قسم الترجمة لمواد القسم الاجبارية في "
+"جامعة اليرموك. وفر وقتك مع موارد تعليمية شاملة جاهزة للتحميل مجانا لدعم "
+"دراستك"
 msgstr ""
 "An educational website for yarmouk university Translation department "
-"students: find your Translation books and references as a yarmouk university "
-"Translation department student. save time and effort as you will find all "
-"the material you need"
+"students: find your Translation books and references as a yarmouk "
+"university Translation department student. save time and effort as you "
+"will find all the material you need"
 
 #: books.py:54 books.py:67
 msgid "لين صمادي"
@@ -164,14 +165,15 @@ msgstr "Elective Courses Books"
 
 #: books.py:63
 msgid ""
-"موقع تعليمي لطلاب قسم الترجمة في جامعة اليرموك: اكتشف مجموعة واسعة من كتب "
-"الترجمة والمراجع العلمية لطلاب قسم الترجمة لمواد القسم الاختيارية في جامعة "
-"اليرموك. وفر وقتك مع موارد تعليمية شاملة جاهزة للتحميل مجانا لدعم دراستك"
+"موقع تعليمي لطلاب قسم الترجمة في جامعة اليرموك: اكتشف مجموعة واسعة من كتب"
+" الترجمة والمراجع العلمية لطلاب قسم الترجمة لمواد القسم الاختيارية في "
+"جامعة اليرموك. وفر وقتك مع موارد تعليمية شاملة جاهزة للتحميل مجانا لدعم "
+"دراستك"
 msgstr ""
 "An educational website for yarmouk university Translation department "
-"students: find your Translation books and references as a yarmouk university "
-"Translation department student. save time and effort as you will find all "
-"the material you need"
+"students: find your Translation books and references as a yarmouk "
+"university Translation department student. save time and effort as you "
+"will find all the material you need"
 
 #: books.py:73
 msgid "Tenses Rule ملخصات قسم الترجمة "
@@ -179,11 +181,11 @@ msgstr "Translation Department Summaries By Tenses Rule"
 
 #: books.py:74
 msgid ""
-"ملخصات لمواد قسم الترجمة جامعة اليرموك.Tenses Rule . كتب قسم الترجمة جامعة "
-"اليرموك. تحميل كتب."
+"ملخصات لمواد قسم الترجمة جامعة اليرموك.Tenses Rule . كتب قسم الترجمة "
+"جامعة اليرموك. تحميل كتب."
 msgstr ""
-"Translation Department Books. Tenses Rule. Translation Department Summaries. "
-"Download Books. Yarmouk University "
+"Translation Department Books. Tenses Rule. Translation Department "
+"Summaries. Download Books. Yarmouk University "
 
 #: books.py:75
 msgid "Tenses Rule جميع ملخصات"
@@ -200,9 +202,9 @@ msgid ""
 "زملائك، شارك الموارد، وناقش مواضيع تعليمية لتعزيز دراستك."
 msgstr ""
 "An educational website for yarmouk university Translation department "
-"students: find your Translation books and references as a yarmouk university "
-"Translation department student. save time and effort as you will find all "
-"the material you need"
+"students: find your Translation books and references as a yarmouk "
+"university Translation department student. save time and effort as you "
+"will find all the material you need"
 
 #: groups.py:58
 msgid "مجموعات  لمساقات القسم الاختيارية"
@@ -215,11 +217,11 @@ msgid ""
 "زملائك، شارك الموارد، وناقش مواضيع تعليمية لتعزيز دراستك."
 msgstr ""
 "An educational website for yarmouk university Translation department "
-"students: find your Translation books and references as a yarmouk university "
-"Translation department student. save time and effort as you will find all "
-"the material you need"
+"students: find your Translation books and references as a yarmouk "
+"university Translation department student. save time and effort as you "
+"will find all the material you need"
 
-#: main.py:56 studyPlan.py:8 studyPlan.py:14 studyPlan.py:21 studyPlan.py:27
+#: main.py:62 studyPlan.py:8 studyPlan.py:14 studyPlan.py:21 studyPlan.py:27
 msgid "احمد حجازي"
 msgstr "Ahmad Hijazi"
 
@@ -229,10 +231,11 @@ msgstr "Requirement Courses Tree Plan: Before 2023"
 
 #: studyPlan.py:8
 msgid ""
-"الخطة الشجرية لقسم الترجمة 2022 فما قبل لمواد القسم الاجبارية. جامعة اليرموك"
+"الخطة الشجرية لقسم الترجمة 2022 فما قبل لمواد القسم الاجبارية. جامعة "
+"اليرموك"
 msgstr ""
-"Translation Department Requirement Courses Tree Plan: before 2023. Yarmouk "
-"University"
+"Translation Department Requirement Courses Tree Plan: before 2023. "
+"Yarmouk University"
 
 #: studyPlan.py:13
 msgid "الخطة الشجرية 2022 فما قبل قسم اختياري"
@@ -240,7 +243,8 @@ msgstr "Elective Courses Tree Plan: Before 2023"
 
 #: studyPlan.py:13
 msgid ""
-"الخطة الشجرية لقسم الترجمة 2022 فما قبل لمواد القسم الاختيارية. جامعة اليرموك"
+"الخطة الشجرية لقسم الترجمة 2022 فما قبل لمواد القسم الاختيارية. جامعة "
+"اليرموك"
 msgstr ""
 "Translation Department Elective Courses Tree Plan: before 2023. 2022. "
 "Yarmouk University"
@@ -251,7 +255,8 @@ msgstr "Requirement Courses Tree Plan: 2023"
 
 #: studyPlan.py:20
 msgid ""
-"الخطة الشجريةلقسم الترجمة 2023 فما بعد لمواد القسم الاجبارية. جامعة اليرموك"
+"الخطة الشجريةلقسم الترجمة 2023 فما بعد لمواد القسم الاجبارية. جامعة "
+"اليرموك"
 msgstr ""
 "Translation Department Requirement Courses Tree Plan: 2023. Yarmouk "
 "University"
@@ -262,9 +267,23 @@ msgstr "Elective Courses Tree Plan: 2023"
 
 #: studyPlan.py:26
 msgid ""
-"الخطة الشجريةلقسم الترجمة 2023 فما بعد لمواد القسم الاختيارية. جامعة اليرموك"
+"الخطة الشجريةلقسم الترجمة 2023 فما بعد لمواد القسم الاختيارية. جامعة "
+"اليرموك"
 msgstr ""
-"Translation Department Elective Courses Tree Plan: 2023. Yarmouk University"
+"Translation Department Elective Courses Tree Plan: 2023. Yarmouk "
+"University"
+
+#: templates/404.html:1
+msgid "404 - الصفحة غير موجودة"
+msgstr "404 - Page Not Found"
+
+#: templates/404.html:11
+msgid "عذراً، الصفحة التي تبحث عنها غير متوفرة"
+msgstr "Pape Not Found"
+
+#: templates/404.html:14
+msgid "العودة للصفحة الرئيسية"
+msgstr "Go to Home Page"
 
 #: templates/about.html:1
 msgid ""
@@ -272,7 +291,7 @@ msgid ""
 "والشفوية"
 msgstr "About Department"
 
-#: templates/about.html:6 templates/home.html:292
+#: templates/about.html:6 templates/home.html:300
 msgid "عن قسم الترجمة التحريرية والشفوية"
 msgstr "About Translation Department"
 
@@ -284,16 +303,17 @@ msgstr "Head of Department"
 msgid "د. رأفت الروسان"
 msgstr "Dr. RA'FAT ALROUSAN"
 
-#: templates/about.html:23 templates/home.html:299
+#: templates/about.html:23 templates/home.html:307
 msgid ""
 "أنشىء قسم الترجمة في مطلع العام الجامعي 2008/2009، وهو الأول من\n"
 "        نوعه في الجامعات الأردنية الرسمية. وجاء تأسيس القسم نظرا للحاجة "
 "الماسة\n"
 "        لتوفير المترجمين المؤهلين في كافة المجالات كالترجمة التحريرية "
 "والشفوية\n"
-"        وترجمة المؤتمرات والندوات . يعد قسم الترجمة ديناميكيا ومتطورا حيث "
-"يمنح\n"
-"        القسم درجتين: درجة البكالوريوس و الماجستير في الترجمة حيث انتقل هذا\n"
+"        وترجمة المؤتمرات والندوات . يعد قسم الترجمة ديناميكيا ومتطورا حيث"
+" يمنح\n"
+"        القسم درجتين: درجة البكالوريوس و الماجستير في الترجمة حيث انتقل "
+"هذا\n"
 "        الأخير من قسم اللغة الانجليزية في العام الجامعي 2010/2011، ويخطط "
 "القسم\n"
 "        حاليا لمنح درجتي الماجستير في الترجمة الشفوية ودرجة الدكتوراة في\n"
@@ -303,11 +323,11 @@ msgstr ""
 "academic year, as the first of its kind in the public Jordanian "
 "universities. The Department was established due to the urgent need for "
 "qualified translators in various fields like written, oral, seminar, and "
-"conference translation. The Translation Department is dynamic and evolving "
-"since it has bachelor's and Master's degrees (M.A), where the latter was "
-"transffered from the English Language Department in the 2010/2011 academic "
-"year. The Department is planning to offer a (M.A.) in Interpretation and a "
-"Doctoral degree (Ph.D.) in Translation."
+"conference translation. The Translation Department is dynamic and "
+"evolving since it has bachelor's and Master's degrees (M.A), where the "
+"latter was transffered from the English Language Department in the "
+"2010/2011 academic year. The Department is planning to offer a (M.A.) in "
+"Interpretation and a Doctoral degree (Ph.D.) in Translation."
 
 #: templates/about.html:30
 msgid ""
@@ -315,49 +335,57 @@ msgid ""
 "        القسم خريجين للعمل في مهنة الترجمة تمرسوا على ترجمة مختلف أنواع "
 "النصوص\n"
 "        مثل الترجمة التحريرية، والشفوية، والمتخصصة، والفورية،\n"
-"        والتتابعية،والدراسات النظرية والتطبيقية الأخرى. ويشمل البرنامج عدة\n"
+"        والتتابعية،والدراسات النظرية والتطبيقية الأخرى. ويشمل البرنامج "
+"عدة\n"
 "        مساقات في المهارات اللغوية باللغة العربية والانجليزية، و مساقات "
 "تشمل\n"
-"        اللغويات المقارنة والتحليلية، وتحليل الخطاب و علم الدلالة و استخدام\n"
+"        اللغويات المقارنة والتحليلية، وتحليل الخطاب و علم الدلالة و "
+"استخدام\n"
 "        أدوات تطبيق الترجمة باستخدام الحاسوب (CAT). ويهدف البرنامج إلى "
 "تطوير\n"
-"        مهارة الطلبة في الترجمة التحريرية والشفوية من أجل تلبية متطلبات سوق\n"
-"        العمل من المترجمين داخل الأردن و خارجها، وخصوصا في هذا العصر الذي "
-"يشهد\n"
+"        مهارة الطلبة في الترجمة التحريرية والشفوية من أجل تلبية متطلبات "
+"سوق\n"
+"        العمل من المترجمين داخل الأردن و خارجها، وخصوصا في هذا العصر الذي"
+" يشهد\n"
 "        تطورا كبيرا في تكنولوجيا المعلومات والاتصالات، حيث أن هناك حاجة "
 "ماسة\n"
-"        لمترجمين في مختلف المجالات والقطاعات مثل وسائل الإعلام، والمؤسسات\n"
+"        لمترجمين في مختلف المجالات والقطاعات مثل وسائل الإعلام، والمؤسسات"
+"\n"
 "        الحكومية وغير الحكومية وكذلك في المؤسسات المحلية والإقليمية "
 "والدولية.\n"
-"        يعقد القسم حوارات نقاشية وندوات سنوية حول دراسات الترجمة التحريرية\n"
-"        والشفوية من أجل أن يبقى الأساتذة والطلبة مواكبين للمعرفة. وهناك عدد "
-"لا\n"
-"        بأس به من الطلبة من خريجي القسم يتابعون دراساتهم العليا (الماجستير\n"
-"        والدكتوراه) في جامعات أردنية و بريطانية وأمريكية مرموقة. ويقوم على\n"
+"        يعقد القسم حوارات نقاشية وندوات سنوية حول دراسات الترجمة "
+"التحريرية\n"
+"        والشفوية من أجل أن يبقى الأساتذة والطلبة مواكبين للمعرفة. وهناك "
+"عدد لا\n"
+"        بأس به من الطلبة من خريجي القسم يتابعون دراساتهم العليا "
+"(الماجستير\n"
+"        والدكتوراه) في جامعات أردنية و بريطانية وأمريكية مرموقة. ويقوم "
+"على\n"
 "        التدريس نخبة من أعضاء هيئة التدريس من خريجي الجامعات الأمريكية\n"
 "        والبريطانية والأسترالية والعربية."
 msgstr ""
-"The programme combines theoretical and applied approaches. Consequently, the "
-"Department prepares graduates to work as prfessional translators since they "
-"are exposed to various types of texts like written, oral, and specialized "
-"translation, along with other theoretical and applied studies. The program "
-"includes many courses in Arabic and English languages skills. In addition, "
-"it includes courses in comparative and analytical linguistics, discourse "
-"analysis, and semantics. Also, students are exposed to computer-assisted "
-"translation tools (CAT).\n"
-" The programme focuses on enhancing students' interpretation and Translation "
-"skills. It helps them meet the growing demand for translators in the job "
-"market, both in Jordan and abroad. This is beacause of the rapid evolution "
-"of Information Technology (IT), which created a strong demand for "
-"translators across several industry sectors like media, private and public "
-"institutions, and local, regional, and international organizations. The "
-"Department holds panel discussions and seminars annually on oral and written "
-"Tanslation Studies to keep teachers and students up-to-date with industry "
-"knowledge. In Addition, a significant number of graduates of the Department "
-"are studying at prestigus universities in Jordan, the Uk, and the USA to "
-"pursue their higher educations studies (M.A and Ph.D.). The lectures are "
-"delivered by elite Department members who graduated from universities in the "
-"USA, the UK, Australian, and Arab countries."
+"The programme combines theoretical and applied approaches. Consequently, "
+"the Department prepares graduates to work as prfessional translators "
+"since they are exposed to various types of texts like written, oral, and "
+"specialized translation, along with other theoretical and applied "
+"studies. The program includes many courses in Arabic and English "
+"languages skills. In addition, it includes courses in comparative and "
+"analytical linguistics, discourse analysis, and semantics. Also, students"
+" are exposed to computer-assisted translation tools (CAT).\n"
+" The programme focuses on enhancing students' interpretation and "
+"Translation skills. It helps them meet the growing demand for translators"
+" in the job market, both in Jordan and abroad. This is beacause of the "
+"rapid evolution of Information Technology (IT), which created a strong "
+"demand for translators across several industry sectors like media, "
+"private and public institutions, and local, regional, and international "
+"organizations. The Department holds panel discussions and seminars "
+"annually on oral and written Tanslation Studies to keep teachers and "
+"students up-to-date with industry knowledge. In Addition, a significant "
+"number of graduates of the Department are studying at prestigus "
+"universities in Jordan, the Uk, and the USA to pursue their higher "
+"educations studies (M.A and Ph.D.). The lectures are delivered by elite "
+"Department members who graduated from universities in the USA, the UK, "
+"Australian, and Arab countries."
 
 #: templates/about.html:48
 msgid "الرؤية"
@@ -366,16 +394,16 @@ msgstr "Vision"
 #: templates/about.html:50
 msgid ""
 "العمل على جعل القسم نموذجا متميزا على المستويين الوطني\n"
-"          والإقليمي، والمساعدة على تقديم برنامج أكاديمي وعمل بحوث أكاديمية "
-"في\n"
+"          والإقليمي، والمساعدة على تقديم برنامج أكاديمي وعمل بحوث "
+"أكاديمية في\n"
 "          مجال دراسات الترجمة التحريرية والشفوية، وتخريج طلبة ذوي مهارة "
 "وكفاءة\n"
 "          عالية الى سوق العمل."
 msgstr ""
-"Aspiring to make the Department a model both locally and regionally, while "
-"aslo contributing to the development of an academic programme and conducting "
-"academic research in Interpretation and Translation studies. Furthermore, "
-"preparing highly qualified graduates for the job market."
+"Aspiring to make the Department a model both locally and regionally, "
+"while aslo contributing to the development of an academic programme and "
+"conducting academic research in Interpretation and Translation studies. "
+"Furthermore, preparing highly qualified graduates for the job market."
 
 #: templates/about.html:55
 msgid "الرسالة"
@@ -384,19 +412,20 @@ msgstr "Message"
 #: templates/about.html:57
 msgid ""
 "يعمل القسم بشكل دؤوب من أجل تقديم تعليم ذي جودة عالية في مجال\n"
-"          دراسات الترجمة التحريرية والشفوية، وإجراء بحوث أكاديمية، والعمل "
-"على\n"
-"          تقديم الخدمة الاجتماعية من خلال العملية التعليمية الشاملة وتخريج "
-"طلبة\n"
-"          أكفياء و متمرسين، مما يعزز قيمنا الأخلاقية لمساعدة مجتمعنا وتلبية\n"
+"          دراسات الترجمة التحريرية والشفوية، وإجراء بحوث أكاديمية، والعمل"
+" على\n"
+"          تقديم الخدمة الاجتماعية من خلال العملية التعليمية الشاملة "
+"وتخريج طلبة\n"
+"          أكفياء و متمرسين، مما يعزز قيمنا الأخلاقية لمساعدة مجتمعنا "
+"وتلبية\n"
 "          متطلباته الإنسانية والتنموية."
 msgstr ""
 "The department works relentlessly to provide a high-quality education in "
 "Interpretation and Translation studies, as well as conducting academic "
 "research.  In addition, contributing to social serviecs through "
 "comprehensive educational processes that prepare competent and skilled "
-"graduates to help our society and address its humanitarian and developmental "
-"needs."
+"graduates to help our society and address its humanitarian and "
+"developmental needs."
 
 #: templates/about.html:63
 msgid "الأهداف"
@@ -405,48 +434,49 @@ msgstr "Mission"
 #: templates/about.html:66
 msgid ""
 "المساهمة في تطوير التعليم العالي في مجال دراسات الترجمة\n"
-"            التحريرية والشفوية من خلال استخدام طرق التدريس الحديثة واكتساب\n"
+"            التحريرية والشفوية من خلال استخدام طرق التدريس الحديثة "
+"واكتساب\n"
 "            المهارات المتعلقة بالتخصص."
 msgstr ""
 "Contributing to the advancment of higher education in Interpretation and "
-"Translation studies by applying modern teaching methods and fostering the "
-"acquisition of specialized skills."
+"Translation studies by applying modern teaching methods and fostering the"
+" acquisition of specialized skills."
 
 #: templates/about.html:71
 msgid "مواكبة التطورات في مجال دراسات الترجمة التحريرية والشفوية."
-msgstr ""
-"Keeping pace with developemnts in Interpretation and Translation studies."
+msgstr "Keeping pace with developemnts in Interpretation and Translation studies."
 
 #: templates/about.html:75
 msgid ""
 "تعزيز العلاقات العلمية والثقافية مع أقسام الترجمة في الجامعات\n"
 "            والمعاهد الأخرى لتطوير القسم وتعزيز مكانته العلمية."
 msgstr ""
-"Enhancing academic and cultural relations with Translation Departments at "
-"various universities and institutes to develop our department and elevate "
-"its scientific standing."
+"Enhancing academic and cultural relations with Translation Departments at"
+" various universities and institutes to develop our department and "
+"elevate its scientific standing."
 
 #: templates/about.html:79
 msgid ""
 "إعطاء الفرصة للطلبة المتميزين لمتابعة دراساتهم العليا في مختلف\n"
 "            فروع دراسات الترجمة."
 msgstr ""
-"Offering outstanding students opportunities to pursue their higher education "
-"in various fields of Translation Studies."
+"Offering outstanding students opportunities to pursue their higher "
+"education in various fields of Translation Studies."
 
 #: templates/about.html:83
 msgid ""
 "تطوير المناهج والخطط الدراسية وطرائق التدريس وتقييمها لتكون\n"
 "            منسجمة مع التطور التكنولوجي والتقني في الجامعة."
 msgstr ""
-"Improving and assessing Department's curriculum, study plan, and teaching "
-"methods to keep pace with the university's technological and technical "
+"Improving and assessing Department's curriculum, study plan, and teaching"
+" methods to keep pace with the university's technological and technical "
 "developments."
 
 #: templates/about.html:87
 msgid ""
 "تزويد الطلبة بقاعدة تعليمية راسخة تعزز المعرفة الأساسية،\n"
-"            ومهارات البحث، وإثراء التجارب الحياتية و مهارة الحاسوب الأساسية\n"
+"            ومهارات البحث، وإثراء التجارب الحياتية و مهارة الحاسوب "
+"الأساسية\n"
 "            لتعليم بعيد المدى."
 msgstr ""
 "Providing students with a solid educational foundation to enhance the "
@@ -467,24 +497,24 @@ msgid ""
 "            ومهارات التحليل والتواصل الكتابي والشفوي بطلاقة."
 msgstr ""
 "Helping students develop their critical thinking skills, power of "
-"observation, analytical skills, and proficiency in both verbal and written "
-"communication."
+"observation, analytical skills, and proficiency in both verbal and "
+"written communication."
 
 #: templates/about.html:100
 msgid ""
 "تطوير التقييم الداخلي المتكرر للتأكد من أن البرنامج يعمل\n"
 "            بطريقة تنسجم مع رسالة القسم والكلية."
 msgstr ""
-"Continuously improving Department assessment methods to ensure the programme "
-"aligns with the Department and college's objectives."
+"Continuously improving Department assessment methods to ensure the "
+"programme aligns with the Department and college's objectives."
 
 #: templates/about.html:104
 msgid ""
 "المساهمة في البحث الأكاديمي والتقدم للمشاريع البحثية المدعومة\n"
 "            ليتم نشرها على المستوى المحلي والعالمي."
 msgstr ""
-"Contributing to academic research and seeking funded research projects to "
-"publish them locally and internationally."
+"Contributing to academic research and seeking funded research projects to"
+" publish them locally and internationally."
 
 #: templates/about.html:108
 msgid ""
@@ -494,8 +524,8 @@ msgid ""
 "            منح دراسية داخل وخارج الدولة."
 msgstr ""
 "Fostering local, regional, and international communication channels by "
-"attending and holding confrences, panel discussions, and seminars, as well "
-"as offering scholarships inside and outside of the country."
+"attending and holding confrences, panel discussions, and seminars, as "
+"well as offering scholarships inside and outside of the country."
 
 #: templates/about.html:113
 msgid ""
@@ -513,7 +543,7 @@ msgstr ""
 "Offering workers and students the opportunity to achieve personal "
 "development and academic excellence in a refined and respectful manner."
 
-#: templates/base.html:15 templates/base.html:171
+#: templates/base.html:15 templates/base.html:175
 msgid "عبدالله ناصر"
 msgstr "Abdullah Naser"
 
@@ -521,43 +551,39 @@ msgstr "Abdullah Naser"
 msgid "موقع طلاب قسم الترجمة"
 msgstr "A website for Translation department students"
 
-#: templates/base.html:103
+#: templates/base.html:107
 msgid "الصفحة الرئيسية"
 msgstr "Home"
 
-#: templates/base.html:111
+#: templates/base.html:115
 msgid "الخطة الدراسية"
 msgstr "Study Plan"
 
-#: templates/base.html:118
+#: templates/base.html:122
 msgid "حسابات البريد الإلكتروني لاعضاء الهيئة التدريسية"
 msgstr "Department Members eMails"
 
-#: templates/base.html:120
+#: templates/base.html:124
 msgid "الهيئة التدريسية"
 msgstr "Department Members"
 
-#: templates/base.html:127
+#: templates/base.html:131
 msgid "عن قسم الترجمة"
 msgstr "About Translation Department"
 
-#: templates/base.html:129
+#: templates/base.html:133
 msgid "عن القسم"
 msgstr "About"
 
-#: templates/base.html:140
+#: templates/base.html:144
 msgid "شعار اللغة الانجليزية"
 msgstr "English Language Flag"
 
-#: templates/base.html:151
+#: templates/base.html:155
 msgid "شعار اللغة العربية"
 msgstr "Arabic Language Flag"
 
-#: templates/base.html:173
-msgid "جميع الحقوق محفوظة"
-msgstr "All Rights Reserved"
-
-#: templates/base.html:196
+#: templates/base.html:205
 msgid "الشكر والتقدير الى"
 msgstr "Credits to"
 
@@ -672,7 +698,8 @@ msgstr "Dr. MOHAMMED ALBATINEH"
 #: templates/home.html:1
 msgid ""
 "تخصص الترجمة. جامعة\n"
-"اليرموك.الترجمة التحريرية والشفوية.قسم الترجمة جامعة اليرموك.موقع قسم الترجمة"
+"اليرموك.الترجمة التحريرية والشفوية.قسم الترجمة جامعة اليرموك.موقع قسم "
+"الترجمة"
 msgstr ""
 "Translation department at yarmouk university. students of Translation "
 "department"
@@ -685,8 +712,8 @@ msgstr "Home"
 #: templates/home.html:4
 msgid ""
 "موقع تعليمي لطلاب قسم الترجمة في\n"
-"جامعة اليرموك: ملخصات كتب، مجموعات واتساب، معلومات أساتذة، ومراجع تعليمية. "
-"انضم\n"
+"جامعة اليرموك: ملخصات كتب، مجموعات واتساب، معلومات أساتذة، ومراجع "
+"تعليمية. انضم\n"
 "الآن لتسهيل دراستك"
 msgstr ""
 "An educational website for Translation students. book summaries. books. "
@@ -701,56 +728,58 @@ msgstr "Translation Dep. Website"
 msgid ""
 "مساعدة وإرشاد طلاب قسم الترجمة التحريرية والشفوية في جامعة اليرموك\n"
 "        في العثور على كتب مواد القسم وملخصات و مجموعات طلابية."
-msgstr "Guiding Translation students at Yarmouk University to find major's books, summaries, and students' groups."
+msgstr ""
+"Guiding Translation students at Yarmouk University to find major's books,"
+" summaries, and students' groups."
 
-#: templates/home.html:33
+#: templates/home.html:37
 msgid "مشاركة ملخص/كتاب"
 msgstr "Share summary/book"
 
-#: templates/home.html:36
+#: templates/home.html:44
 msgid "مشاركة مقال"
 msgstr "Share Article"
 
-#: templates/home.html:44
+#: templates/home.html:52
 msgid "المواد التعليمية"
 msgstr "Material"
 
-#: templates/home.html:52
+#: templates/home.html:60
 msgid "قسم إجباري"
 msgstr "Requirement Courses"
 
-#: templates/home.html:61
+#: templates/home.html:69
 msgid ""
 "الكتب الخاصة بالمواد الإجبارية المعتمدة في قسم الترجمة، والمجمّعة\n"
 "        في مكان واحد لتسهيل الوصول إليها والاستفادة منها."
 msgstr ""
-"Translation department requirement courses books, collected in one place for "
-"easy access."
+"Translation department requirement courses books, collected in one place "
+"for easy access."
 
-#: templates/home.html:68 templates/home.html:94 templates/home.html:120
-#: templates/home.html:162 templates/home.html:188 templates/home.html:214
-#: templates/home.html:240 templates/view.html:41
+#: templates/home.html:76 templates/home.html:102 templates/home.html:128
+#: templates/home.html:170 templates/home.html:196 templates/home.html:222
+#: templates/home.html:248 templates/view.html:41
 msgid "عرض"
 msgstr "Visit"
 
-#: templates/home.html:78 templates/home.html:85 templates/home.html:231
+#: templates/home.html:86 templates/home.html:93 templates/home.html:239
 #: templates/studyplan.html:38 templates/studyplan.html:62
 msgid "قسم اختياري"
 msgstr "Elective Courses"
 
-#: templates/home.html:87
+#: templates/home.html:95
 msgid ""
 "الكتب الخاصة بالمواد الاختيارية المعتمدة في قسم الترجمة، والمجمّعة\n"
 "        في مكان واحد لتسهيل الوصول إليها والاستفادة منها."
 msgstr ""
-"Translation department elective courses books, collected in one place for "
-"easy access."
+"Translation department elective courses books, collected in one place for"
+" easy access."
 
-#: templates/home.html:104 templates/home.html:111
+#: templates/home.html:112 templates/home.html:119
 msgid "ملخصات Tenses Rule"
 msgstr "Tenses Rule Summaries"
 
-#: templates/home.html:113
+#: templates/home.html:121
 msgid ""
 "ملخصات المواد الإجبارية والاختيارية المعتمدة في قسم الترجمة،\n"
 "        والمُعَدّة والمقدَّمة من قبل مجموعة Tenses Rule،"
@@ -758,87 +787,87 @@ msgstr ""
 "Summaries of Translation department requirement and elective courses, "
 "prepared by Tenses Rule group."
 
-#: templates/home.html:126
+#: templates/home.html:134
 msgid "مجموعات"
 msgstr "Groups"
 
-#: templates/home.html:129
+#: templates/home.html:137
 msgid "مجموعات طلابية"
 msgstr "Students’ Groups"
 
-#: templates/home.html:131
+#: templates/home.html:139
 msgid ""
 "مجموعات تجمع طلاب قسم الترجمة لأهداف تعليمية، تُمكّن الطلبة من\n"
-"        التعاون فيما بينهم وتبادل المعرفة والخبرات وتطوير مستواهم الأكاديمي."
+"        التعاون فيما بينهم وتبادل المعرفة والخبرات وتطوير مستواهم "
+"الأكاديمي."
 msgstr ""
 "Students groups for educational puposes. It encourage students to "
 "collaborate, exchange knowledge and expertise, and strengthening their "
 "academic foundations."
 
-#: templates/home.html:144
+#: templates/home.html:152
 msgid "واتساب"
 msgstr "WhatsApp"
 
-#: templates/home.html:153 templates/home.html:179
+#: templates/home.html:161 templates/home.html:187
 msgid "الطلبة المستجدين 2025"
 msgstr "2025 Freshers"
 
-#: templates/home.html:156
+#: templates/home.html:164
 msgid "مجموعة واتس اب للطلبة المستجدين دفعة 2025."
 msgstr "A WhatsApp group for freshers 2025."
 
-#: templates/home.html:171
+#: templates/home.html:179
 msgid "فيسبوك"
 msgstr "Facebook"
 
-#: templates/home.html:182
+#: templates/home.html:190
 msgid "مجموعة فيسبوك للطلبة المستجدين دفعة 2025."
 msgstr "2025 Freshers"
 
-#: templates/home.html:197
+#: templates/home.html:205
 msgid "مجموعات-طلاب-قسم-الترجمة-جامعة-اليرموك"
-msgstr ""
-"social-media-groups-yarmouk-university's-Translation-department-students"
+msgstr "social-media-groups-yarmouk-university's-Translation-department-students"
 
-#: templates/home.html:208
+#: templates/home.html:216
 msgid "مجموعات طلابية لمواد قسم الترجمة الاجبارية."
 msgstr "Students groups for department requirement courses"
 
-#: templates/home.html:223
+#: templates/home.html:231
 msgid "مجموعات طلاب قسم الترجمة جامعة اليرموك"
-msgstr ""
-"social-media-groups-yarmouk-university's-Translation-department-students"
+msgstr "social-media-groups-yarmouk-university's-Translation-department-students"
 
-#: templates/home.html:234
+#: templates/home.html:242
 msgid "مجموعات طلابية لمواد قسم الترجمة الاختيارية."
 msgstr "Students groups for department elective courses"
 
-#: templates/home.html:248
+#: templates/home.html:256
 msgid "مقالات"
 msgstr "Articles"
 
-#: templates/home.html:253
+#: templates/home.html:261
 msgid "الوحدة الصرفية والوحدة المعجمية "
 msgstr "Morphemes vs. Lexemes"
 
-#: templates/home.html:256
+#: templates/home.html:264
 msgid ""
 "عند دراسة تخصص مرتبط باللغويات مثل الترجمة، لا بد من التمييز بين\n"
 "          الوحدة الصرفية والوحدة المعجمية. هذا المقال يشرح الفرق بينهما\n"
 "          وأهميتهما لطلاب الترجمة..."
 msgstr ""
 "When studying a linguistics-related major, like Translation, you must "
-"distinguish between Morphemes and Lexemes. This article describes the importance and differences of both for Translation students."
+"distinguish between Morphemes and Lexemes. This article describes the "
+"importance and differences of both for Translation students."
 
-#: templates/home.html:264 templates/home.html:282
+#: templates/home.html:272 templates/home.html:290
 msgid "اقرأ المقال"
 msgstr "Read Article"
 
-#: templates/home.html:271
+#: templates/home.html:279
 msgid "علم المعاني والبرجماتية "
 msgstr "Semantics and Pragmatics"
 
-#: templates/home.html:274
+#: templates/home.html:282
 msgid ""
 "يعد دراسة اللغة وفهم معانيها من الأمور الأساسية لطلاب الترجمة.\n"
 "          في هذا المقال، نستعرض الفرق بين علم المعاني (Semantics) "
@@ -850,11 +879,11 @@ msgstr ""
 "In this article, we explore the difference between Semantics and "
 "Pragmatics."
 
-#: templates/home.html:294
+#: templates/home.html:302
 msgid "رئيس القسم، د. رأفت الروسان"
 msgstr "Dr. Ra’fat Alrousan, Head of Department"
 
-#: templates/home.html:309
+#: templates/home.html:317
 msgid "اقرأ المزيد"
 msgstr "Read More"
 
@@ -866,19 +895,20 @@ msgstr "Morphemes vs. Lexemes: For Translation Students"
 
 #: templates/morphNlexeEssay.html:3
 msgid ""
-"الوحدة الصرفية (morpheme) والوحدة المعجمية (lexeme): لطلاب قسم الترجمة في\n"
+"الوحدة الصرفية (morpheme) والوحدة المعجمية (lexeme): لطلاب قسم الترجمة في"
+"\n"
 "جامعة اليرموك و طلاب اللغة الانجليزية"
 msgstr ""
-"Morphemes and Lexemes: For Translation Students. English language students. "
-"Yarmouk university."
+"Morphemes and Lexemes: For Translation Students. English language "
+"students. Yarmouk university."
 
 #: templates/morphNlexeEssay.html:5
 msgid ""
 "الوحدة الصرفية والوحدة المعجمية. فهم اللغة الانجيزية. تخصص الترجمة. تخصص\n"
 "اللغة الانجليزية"
 msgstr ""
-"Morphemes and lexemes. understanding english language. Translation major. "
-"Translation department. english language major"
+"Morphemes and lexemes. understanding english language. Translation major."
+" Translation department. english language major"
 
 #: templates/morphNlexeEssay.html:12
 msgid ""
@@ -977,16 +1007,16 @@ msgid ""
 "لا تغيّر معنى الكلمة أو وظيفتها النحوية، لكنها تضيف معلومات\n"
 "            نحوية مثل الزمن أو العدد. مثال:"
 msgstr ""
-"They do not change meaning or grammatical category of the word but insteed "
-"indicate time and quantity. For example:"
+"They do not change meaning or grammatical category of the word but "
+"insteed indicate time and quantity. For example:"
 
 #: templates/morphNlexeEssay.html:86
 msgid ""
 "(-s) في (cats) تدل على الجمع، و(-ed) في (talked) تدل على\n"
 "              الماضي."
 msgstr ""
-"(-s) in (cats) as a quantity. (-ed) in (talked) as a grammatical category "
-"(past)."
+"(-s) in (cats) as a quantity. (-ed) in (talked) as a grammatical category"
+" (past)."
 
 #: templates/morphNlexeEssay.html:92
 msgid "2. الوحدات الصرفية الاشتقاقية (Derivational Morphemes):"
@@ -994,16 +1024,15 @@ msgstr "2. Derivational Morpheme:"
 
 #: templates/morphNlexeEssay.html:95
 msgid "تغير معنى الكلمة أو وظيفتها النحوية. مثال:"
-msgstr ""
-"They change the meaning and grammatical category of the word. For example:"
+msgstr "They change the meaning and grammatical category of the word. For example:"
 
 #: templates/morphNlexeEssay.html:99
 msgid ""
 "إضافة (-er) إلى (teach) لتصبح (teacher)، حيث تحولت الكلمة من\n"
 "              فعل إلى اسم."
 msgstr ""
-"Adding (-er) to (teach) and becomes (teacher) will change the word from verb "
-"to noun."
+"Adding (-er) to (teach) and becomes (teacher) will change the word from "
+"verb to noun."
 
 #: templates/morphNlexeEssay.html:109
 msgid "ثانيًا: الوحدة المعجمية (lexeme) – المدخل الأساسي في القاموس"
@@ -1012,14 +1041,15 @@ msgstr "Second: Lexeme — A headword in a dictionary"
 #: templates/morphNlexeEssay.html:115
 msgid ""
 "الوحدة المعجمية هي الشكل الأساسي أو الجذري للكلمة، والذي يمكن\n"
-"            أن يأخذ عدة أشكال تصريفية دون أن يغير معناه الجوهري. بمعنى آخر، "
-"هي\n"
-"            المدخل الذي يظهر في القاموس، بينما تختلف أشكاله التصريفية (Word\n"
+"            أن يأخذ عدة أشكال تصريفية دون أن يغير معناه الجوهري. بمعنى "
+"آخر، هي\n"
+"            المدخل الذي يظهر في القاموس، بينما تختلف أشكاله التصريفية "
+"(Word\n"
 "            Forms) بناءً على التصريفات"
 msgstr ""
-"Lexeme is the root form of a word. It can be infelcted into multiple forms "
-"without loss of essential meaning. In another word, it is the dictionary "
-"entry which its words form vary depending on its inflections."
+"Lexeme is the root form of a word. It can be infelcted into multiple "
+"forms without loss of essential meaning. In another word, it is the "
+"dictionary entry which its words form vary depending on its inflections."
 
 #: templates/morphNlexeEssay.html:121
 msgid "خصائص الوحدة المعجمية:"
@@ -1033,8 +1063,7 @@ msgstr "1. It comprises all inflected and derived variants of a word."
 msgid ""
 "مثال: الكلمة (run) تشمل الأشكال التالية ضمن نفس الوحدة\n"
 "            المعجمية:"
-msgstr ""
-"For example: (run) includes all of the following within the same lexeme:"
+msgstr "For example: (run) includes all of the following within the same lexeme:"
 
 #: templates/morphNlexeEssay.html:131
 msgid "(run) (المضارع)"
@@ -1057,7 +1086,8 @@ msgid ""
 "جميع هذه الكلمات تنتمي إلى الوحدة المعجمية (run)، لكنها تختلف\n"
 "            في الشكل النحوي."
 msgstr ""
-"All of the these words belong to the lexeme (run) but differ in inflection."
+"All of the these words belong to the lexeme (run) but differ in "
+"inflection."
 
 #: templates/morphNlexeEssay.html:142
 msgid "2. يمكن أن تكون اسمًا، فعلًا أو صفة"
@@ -1084,16 +1114,16 @@ msgid ""
 "عند البحث عن كلمة في القاموس، نجد الوحدة المعجمية الأساسية\n"
 "            للكلمة وليس أشكالها المختلفة."
 msgstr ""
-"When you look up for word in a dictionary, you will find the lexeme of the "
-"word not its other forms."
+"When you look up for word in a dictionary, you will find the lexeme of "
+"the word not its other forms."
 
 #: templates/morphNlexeEssay.html:163
 msgid ""
 "مثلًا، عند البحث عن (talks)، نجد الكلمة (talk) كمدخل رئيسي،\n"
 "              مع توضيح أشكالها الصرفية الأخرى."
 msgstr ""
-"For example: when you look up for (talks), you will find (talk) as the entry "
-"and it will show you its different forms."
+"For example: when you look up for (talks), you will find (talk) as the "
+"entry and it will show you its different forms."
 
 #: templates/morphNlexeEssay.html:172 templates/semaNpragEssay.html:154
 msgid "خاتمة"
@@ -1102,21 +1132,23 @@ msgstr "Conclusion"
 #: templates/morphNlexeEssay.html:176
 msgid ""
 "يعد التفريق بين الوحدة الصرفية و الوحدة المعجمية أمرًا ضروريًا\n"
-"            لفهم كيفية بناء الكلمات ومعانيها المختلفة. فالوحدة الصرفية هي "
-"أصغر\n"
+"            لفهم كيفية بناء الكلمات ومعانيها المختلفة. فالوحدة الصرفية هي"
+" أصغر\n"
 "            وحدة تحمل معنى، في حين أن الوحدة المعجمية هي المدخل الأساسي "
 "للكلمة\n"
-"            بصرف النظر عن أشكالها المختلفة. من خلال استيعاب هذه المفاهيم، "
-"يمكن\n"
-"            لطلاب قسم الترجمة تحسين مهاراتهم في تحليل النصوص وفهم الفروقات\n"
+"            بصرف النظر عن أشكالها المختلفة. من خلال استيعاب هذه المفاهيم،"
+" يمكن\n"
+"            لطلاب قسم الترجمة تحسين مهاراتهم في تحليل النصوص وفهم "
+"الفروقات\n"
 "            الدقيقة بين الكلمات في اللغات المختلفة."
 msgstr ""
-"Distinguishing between morphemes and lexemes is essential to undersatnd how "
-"words are formed and their different meanings. A morpheme is the smallest "
-"unit with meaning, whereas a lexeme is the word entry in the dictionary "
-"without considering its other forms. When they undersatnd these notions, "
-"Translation students will be able to enchance their text analysis skills and "
-"comprehend the nuanced differences among words in different languages."
+"Distinguishing between morphemes and lexemes is essential to undersatnd "
+"how words are formed and their different meanings. A morpheme is the "
+"smallest unit with meaning, whereas a lexeme is the word entry in the "
+"dictionary without considering its other forms. When they undersatnd "
+"these notions, Translation students will be able to enchance their text "
+"analysis skills and comprehend the nuanced differences among words in "
+"different languages."
 
 #: templates/semaNpragEssay.html:1
 msgid ""
@@ -1126,8 +1158,8 @@ msgstr "Comparison Semantics and Pragmatics: For Translation Students"
 
 #: templates/semaNpragEssay.html:3
 msgid ""
-"الفرق بين علم المعاني والبرجماتية واهمية التمييز بينهما لطلاب قسم الترجمة "
-"في\n"
+"الفرق بين علم المعاني والبرجماتية واهمية التمييز بينهما لطلاب قسم الترجمة"
+" في\n"
 "جامعة اليرموك و طلاب اللغة الانجليزية"
 msgstr ""
 "Comparison Semantics and Pragmatics: For Translation Students. English "
@@ -1138,8 +1170,8 @@ msgid ""
 "علم المعاني. البرجماتية. فهم اللغة الانجيزية. تخصص الترجمة. تخصص اللغة\n"
 "الانجليزية"
 msgstr ""
-"semantics and pragmatics. understanding english language. Translation major. "
-"Translation department. english language major"
+"semantics and pragmatics. understanding english language. Translation "
+"major. Translation department. english language major"
 
 #: templates/semaNpragEssay.html:12
 msgid "علم المعاني والبرجماتية وأهمية التمييز بينهما: لطلاب قسم الترجمة"
@@ -1148,11 +1180,12 @@ msgstr "Comparison Semantics and Pragmatics: For Translation Students"
 #: templates/semaNpragEssay.html:17
 msgid ""
 "تُعد دراسة اللغة وفهم معانيها من الأمور الأساسية لطلاب الترجمة،\n"
-"        حيث تتطلب عملية الترجمة إدراكًا دقيقًا للمعاني المباشرة والمقصودة. في\n"
-"        هذا السياق، يُعتبر علم المعاني (Semantics) والبرجماتية (Pragmatics) "
-"من\n"
-"        أهم فروع علم اللغة التي تسهم في فهم المعنى اللغوي بشكل دقيق. وعلى "
-"الرغم\n"
+"        حيث تتطلب عملية الترجمة إدراكًا دقيقًا للمعاني المباشرة "
+"والمقصودة. في\n"
+"        هذا السياق، يُعتبر علم المعاني (Semantics) والبرجماتية "
+"(Pragmatics) من\n"
+"        أهم فروع علم اللغة التي تسهم في فهم المعنى اللغوي بشكل دقيق. وعلى"
+" الرغم\n"
 "        من تشابههما في بعض النواحي، إلا أن لكل منهما نطاقًا ووظيفة مختلفة."
 msgstr ""
 "Deep study of language and understanding of meaning is fundamental for "
@@ -1168,16 +1201,16 @@ msgstr "First: What is Semantics"
 #: templates/semaNpragEssay.html:32
 msgid ""
 "علم المعاني هو فرع من علم اللغة يدرس المعنى المجرد والمحدد\n"
-"            للكلمات والجمل بغض النظر عن السياق الذي تُستخدم فيه. بمعنى آخر، "
-"يهتم\n"
-"            علم المعاني بدراسة المعاني الحرفية والواضحة للتعبيرات اللغوية "
-"كما هي\n"
+"            للكلمات والجمل بغض النظر عن السياق الذي تُستخدم فيه. بمعنى "
+"آخر، يهتم\n"
+"            علم المعاني بدراسة المعاني الحرفية والواضحة للتعبيرات اللغوية"
+" كما هي\n"
 "            في القاموس أو القواعد النحوية."
 msgstr ""
 "Semantics is a branch of linguistics that studies the literal meaning of "
 "words and sentences out of context. In other words, semantics focuses on "
-"studying the literal meaning of the linguistic expressions according to the "
-"dictionary and grammar."
+"studying the literal meaning of the linguistic expressions according to "
+"the dictionary and grammar."
 
 #: templates/semaNpragEssay.html:38
 msgid "خصائص علم المعاني:"
@@ -1191,16 +1224,15 @@ msgstr "Focuses on the word's lexical meaning."
 msgid ""
 "يدرس العلاقات الدلالية مثل الترادف (Synonymy) والتضاد\n"
 "              (Antonymy) والتضمين (Hyponymy)."
-msgstr ""
-"Studies the semantic relations between synonymy, antonymy, and hyponymy."
+msgstr "Studies the semantic relations between synonymy, antonymy, and hyponymy."
 
 #: templates/semaNpragEssay.html:46
 msgid ""
 "يعتمد على قواعد اللغة والهيكل النحوي لفهم المعنى دون التأثر\n"
 "              بالسياق."
 msgstr ""
-"Relies on grammar and structure to understand meaning without considering "
-"the context."
+"Relies on grammar and structure to understand meaning without considering"
+" the context."
 
 #: templates/semaNpragEssay.html:49
 msgid "يُستخدم لفهم التفسيرات الرسمية والمحددة للغة."
@@ -1221,11 +1253,12 @@ msgstr ""
 #: templates/semaNpragEssay.html:59
 msgid ""
 "كلمة (نجمة) تعني جرمًا سماويًا مشعًا أو يمكن أن تعني شخصية\n"
-"              مشهورة، لكن علم المعاني يركز على المعنى القاموسي لكل استخدام."
+"              مشهورة، لكن علم المعاني يركز على المعنى القاموسي لكل "
+"استخدام."
 msgstr ""
-"The word (star) means a fixed luminous point in the night sky, and it could "
-"also mean a famous person. Nevertheless, semantics only considers the "
-"dictionary (literal) meaning."
+"The word (star) means a fixed luminous point in the night sky, and it "
+"could also mean a famous person. Nevertheless, semantics only considers "
+"the dictionary (literal) meaning."
 
 #: templates/semaNpragEssay.html:69
 msgid "ثانيًا: البرجماتية (Pragmatics)"
@@ -1236,15 +1269,15 @@ msgid ""
 "البرجماتية، أو علم التداولية، هو فرع من علم اللغة يركز على\n"
 "            كيفية تأويل المعاني اعتمادًا على السياق والموقف والنية "
 "التواصلية.\n"
-"            بخلاف علم المعاني، لا تقتصر البرجماتية على المعاني القاموسية بل "
-"تهتم\n"
+"            بخلاف علم المعاني، لا تقتصر البرجماتية على المعاني القاموسية "
+"بل تهتم\n"
 "            بكيفية استخدام اللغة لتحقيق أغراض تواصلية محددة."
 msgstr ""
 "Pragmatics is a branch of linguistics that focuses on how meanings are "
-"interpreted based on context, situation, and communicative intention. Unlike "
-"semantics, pragmatics does not limit itself to dictionary meanings but "
-"rather focuses on how to use language to achieve specific communicative "
-"purposes."
+"interpreted based on context, situation, and communicative intention. "
+"Unlike semantics, pragmatics does not limit itself to dictionary meanings"
+" but rather focuses on how to use language to achieve specific "
+"communicative purposes."
 
 #: templates/semaNpragEssay.html:80
 msgid "خصائص البرجماتية:"
@@ -1259,8 +1292,8 @@ msgid ""
 "تدرس تأثير السياق والعوامل الاجتماعية والثقافية على الفهم\n"
 "              اللغوي."
 msgstr ""
-"Studies the effect of context, social, and cultural factors on understanding "
-"language."
+"Studies the effect of context, social, and cultural factors on "
+"understanding language."
 
 #: templates/semaNpragEssay.html:88
 msgid ""
@@ -1273,8 +1306,8 @@ msgid ""
 "تأخذ في الاعتبار معرفة المتحدث والمستمع ومجريات الحديث عند\n"
 "              تحديد المعنى."
 msgstr ""
-"It takes into consideration the speaker's and listener's knowledge and the "
-"flow of conversation when determining meaning."
+"It takes into consideration the speaker's and listener's knowledge and "
+"the flow of conversation when determining meaning."
 
 #: templates/semaNpragEssay.html:97
 msgid "أمثلة على البرجماتية:"
@@ -1288,16 +1321,17 @@ msgid ""
 "              البرجماتية، تُفهم على أنها طلب لفتح النافذة."
 msgstr ""
 "The sentence (Can you open the window?) is a question about the person's "
-"ability to open the window, but pragmatically, it is understood as a request "
-"to open the window."
+"ability to open the window, but pragmatically, it is understood as a "
+"request to open the window."
 
 #: templates/semaNpragEssay.html:105
 msgid ""
 "عند قول شخص (الجو بارد هنا) أثناء جلوسه في غرفة مغلقة، يمكن\n"
-"              أن يكون يقصد ضمنيًا طلب إغلاق النافذة دون أن يصرّح بذلك صراحة."
+"              أن يكون يقصد ضمنيًا طلب إغلاق النافذة دون أن يصرّح بذلك "
+"صراحة."
 msgstr ""
-"When someone says (It is cild here) while sitting in a closed room, he might "
-"be implying a request to colse the winow indirectly."
+"When someone says (It is cild here) while sitting in a closed room, he "
+"might be implying a request to colse the winow indirectly."
 
 #: templates/semaNpragEssay.html:116
 msgid "أهمية التمييز بين علم المعاني والبرجماتية في الترجمة"
@@ -1308,13 +1342,14 @@ msgstr ""
 #: templates/semaNpragEssay.html:121
 msgid ""
 "لطلاب الترجمة، يُعتبر فهم الفرق بين علم المعاني والبرجماتية\n"
-"            أمرًا جوهريًا، حيث يؤثر على جودة ودقة الترجمة. الترجمة الحرفية قد\n"
+"            أمرًا جوهريًا، حيث يؤثر على جودة ودقة الترجمة. الترجمة "
+"الحرفية قد\n"
 "            تتجاهل المعاني الضمنية، مما يؤدي إلى سوء فهم النصوص، بينما "
 "يساعد\n"
 "            إدراك البرجماتية على تقديم ترجمة أكثر دقة وملاءمة للسياق."
 msgstr ""
-"It is essential for Translation students to distinguish between semantics "
-"and pragmatics, since it affects the quality and precision of the "
+"It is essential for Translation students to distinguish between semantics"
+" and pragmatics, since it affects the quality and precision of the "
 "translation. Literal Translation neglects implied meaning, which lead to "
 "misunderstanding texts. On the contrary, understanding pragmatics helps "
 "provide more accurate and natural translations."
@@ -1354,9 +1389,10 @@ msgstr ""
 #: templates/semaNpragEssay.html:158
 msgid ""
 "يمثل علم المعاني والبرجماتية جانبين متكاملين لفهم اللغة،\n"
-"            فالأول يهتم بالمعنى القاموسي الثابت، بينما يهتم الثاني بكيفية\n"
-"            استخدام اللغة في المواقف المختلفة. ولطلاب الترجمة، يُعد الوعي "
-"بهذه\n"
+"            فالأول يهتم بالمعنى القاموسي الثابت، بينما يهتم الثاني بكيفية"
+"\n"
+"            استخدام اللغة في المواقف المختلفة. ولطلاب الترجمة، يُعد الوعي"
+" بهذه\n"
 "            الفروق ضروريًا لتقديم ترجمات دقيقة تحافظ على المعنى الحقيقي "
 "للنصوص\n"
 "            مع مراعاة السياق الثقافي والتواصلي."
@@ -1395,3 +1431,7 @@ msgstr "Download"
 #: templates/viewPlan.html:34
 msgid "اضغط لتحميل الخطة الدراسية بصيغة PDF"
 msgstr "Download the tree plan as PDF"
+
+#~ msgid "جميع الحقوق محفوظة"
+#~ msgstr "All Rights Reserved"
+
